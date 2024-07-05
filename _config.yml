@@ -30,13 +30,14 @@ twitter_username: jdlately
 github_username:  itsmejayd
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
+#theme: minima
 plugins:
   - jekyll-feed
 
 minima:
   skin: dark
-  
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
