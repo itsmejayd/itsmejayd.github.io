@@ -31,9 +31,12 @@ github_username:  itsmejayd
 
 # Build settings
 theme: minima
+#plugins:
+#  - jekyll-feed
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme
 
+remote_theme: jekyll/minima
 minima:
   skin: dark
 
