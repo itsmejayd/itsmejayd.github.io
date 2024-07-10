@@ -31,14 +31,14 @@ github_username:  itsmejayd
 
 # Build settings
 theme: minima
-#plugins:
-#  - jekyll-feed
 plugins:
-  - jekyll-remote-theme
-
-remote_theme: jekyll/minima
-minima:
-  skin: dark
+  - jekyll-feed
+# these lines below were added when trying to make darkmode work
+#   - jekyll-remote-theme
+#
+# remote_theme: jekyll/minima
+# minima:
+#   skin: dark
 
 # Exclude from processing.
 # The following items will not be processed, by default.
