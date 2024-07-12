@@ -30,9 +30,15 @@ twitter_username: jdlately
 github_username:  itsmejayd
 
 # Build settings
-theme: minima
+# theme: minima
+
+# from minimal mistakes theme guide, consider removing quotes if not working???
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+
+
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 # these lines below were added when trying to make darkmode work
 #   - jekyll-remote-theme
 #
