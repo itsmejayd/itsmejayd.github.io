@@ -1,9 +1,15 @@
-# readme title
+# itsmejayd personal website
 
-eruinciurniacuernujkdjdksjfkjsd
+the site is under construction!
 
-Contains basic configuration to get you a site with:
+im messing around with different themes!
 
-- the dog
-- went to
-- the beach
+I spent 2 days trying to make dark mode work with a jekyll site through github pages!
+
+I found a way!
+
+now im figuring out how to do settings and such with the minimal mistakes theme!
+
+be done soon!
+
+xoxoxo
