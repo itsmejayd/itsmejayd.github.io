@@ -1,7 +1,7 @@
 ---
-title: "About"
+title: About
 permalink: /about/
-layout: page
+#layout: page
 #author_profile: false
 ---
 
