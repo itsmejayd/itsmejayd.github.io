@@ -29,10 +29,14 @@ url: "https://itsmejayd.github.io"  #"" # the base hostname & protocol for your 
 twitter_username: jdlately
 github_username:  itsmejayd
 
+# NOTE: may want/need to coment out the feed plugin below
 # Build settings
-theme: minima
+#theme: minima
+# NOTE: may need to try running with the remote_theme without quotes?
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 # these lines below were added when trying to make darkmode work
 #   - jekyll-remote-theme
 #
