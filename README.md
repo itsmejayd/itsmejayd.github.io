@@ -61,10 +61,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+<!--
 # TODO: include screenshot of website homepage here?
 # need to edit above html to mak sure this shows up?
 [![Product Name Screen Shot][product-screenshot]](https://itsmejayd.github.io/)
-
+-->
 
 
 ### Built With
