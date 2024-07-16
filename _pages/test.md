@@ -2,6 +2,7 @@
 #layout: page
 title: "test page"
 permalink: /testpath/
+layout: page
 author_profile: false
 ---
 
