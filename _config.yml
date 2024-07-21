@@ -16,11 +16,10 @@
 title: itsmejayd
 email: josephdwyer20@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: jdlately
+  A personal website built using GitHub Pages and the Minimal Mistakes Jekyll theme
+  to showcase what I'm working on, thinking about, and finding interesting.
 github_username: itsmejayd
+twitter_username: jdlately
 minimal_mistakes_skin: dark #default
 search: true
 atom_feed:
@@ -62,9 +61,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : #"/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Joseph Dwyer"
+  avatar : "/assets/images/headshot.jpeg"
+  bio    : "Software engineer interested all things tech,
+            recently focusing on learning about cybersecurity and AI/LMs"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -80,6 +80,9 @@ author:
       url: "https://instagram.com/"
 
 footer:
+  description: >- # this means to ignore newlines until "baseurl:"
+    A personal website built using GitHub Pages and the Minimal Mistakes Jekyll theme
+    to showcase what I'm working on, thinking about, and finding interesting.
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
