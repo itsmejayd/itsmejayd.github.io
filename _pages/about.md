@@ -7,8 +7,7 @@ permalink: /about/
 This is my personal website to showcase what I'm working on, thinking about, and finding interesting.
 
 Here are links to my other public online profiles:
-###
-* [![LinkedIn][https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white]][https://www.linkedin.com/in/josephdwyer20/]
+- [Test](https://test.com)
 
 
 Here is my [GitHub repo](https://github.com/itsmejayd/itsmejayd.github.io) repo for this website.
