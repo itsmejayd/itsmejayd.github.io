@@ -17,8 +17,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/itsmejayd/itsmejayd.github.io/assets/images/icons8-website-64.png">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/itsmejayd/itsmejayd.github.io">
+    <img src="/assets/images/icons8-website-64.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Git Pages Personal Website</h3>

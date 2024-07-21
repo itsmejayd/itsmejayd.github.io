@@ -69,6 +69,9 @@ author:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/josephdwyer20/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
@@ -84,6 +87,9 @@ footer:
     A personal website built using GitHub Pages and the Minimal Mistakes Jekyll theme
     to showcase what I'm working on, thinking about, and finding interesting.
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/josephdwyer20/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
