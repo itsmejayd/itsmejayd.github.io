@@ -6,8 +6,12 @@ permalink: /about/
 
 This is my personal website to showcase what I'm working on, thinking about, and finding interesting.
 
-Here are links to my other public online profiles:
-- [Test](https://test.com)
+Links to my other relevant accounts/profiles:
+
+// coding stuff:
+- [LeetCode](https://leetcode.com/u/jaydxp/)
+- [HackerRank](https://www.hackerrank.com/profile/josephdwyer20)
+- [picoCTF](https://play.picoctf.org/users/jaydxp)
 
 
 Here is my [GitHub repo](https://github.com/itsmejayd/itsmejayd.github.io) repo for this website.
