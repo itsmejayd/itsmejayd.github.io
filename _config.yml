@@ -65,6 +65,8 @@ author:
   avatar : "/assets/images/headshot.jpeg"
   bio    : "Hi, I'm Joe - this is my website to showcase what I'm
             working on, thinking about, and finding interesting."
+  location  : "Philadelphia area"
+  email     : "josephdwyer20@gmail.com"
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
