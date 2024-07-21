@@ -2,25 +2,27 @@
 title: "About"
 permalink: /about/
 #layout: page
+font:
 ---
 
-This is my personal website to showcase what I'm working on, thinking about, and finding interesting.
+This is a personal website to showcase what I'm working on, thinking about, and finding interesting.
+
 Here is my [GitHub repo](https://github.com/itsmejayd/itsmejayd.github.io) repo for this website.
 The site is built using [GitHub Pages](https://pages.github.com/) and the [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/).
 
-Links to my other relevant accounts/profiles:
+# Links to my other relevant accounts/profiles:
 
-// coding stuff:
+## // coding stuff:
 - [LeetCode](https://leetcode.com/u/jaydxp/)
 - [HackerRank](https://www.hackerrank.com/profile/josephdwyer20)
 - [picoCTF](https://play.picoctf.org/users/jaydxp)
 
-// professional certifications & credentials:
+## // professional certifications & credentials:
 - [CompTIA Security+ (Credly)](https://www.credly.com/users/joseph-dwyer.775c09b5/badges)
 - [Supervised Machine Learning: Regression and Classification (Coursera)](https://www.coursera.org/user/6176879fddce1be97be854ee6de9779b)
 - [Microsoft Certified: Azure Fundamentals (Microsoft)](https://learn.microsoft.com/en-us/users/josephdwyer-5720/credentials/89cd64d6eeea87)
 
-// contact:
+## // contact:
 - Email:  josephdwyer20@gmail.com
 - [Twitter](https://twitter.com/jdlately) (my dms are open)
 - [OpenPGP public key](https://keys.openpgp.org/search?q=4752E97C450AE7867085E26DE02A81EE15F6AF58) (for encrypted communications, only I have the private key)
