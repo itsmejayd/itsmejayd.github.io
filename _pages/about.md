@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 #layout: page
-font:
+#font:
 ---
 
 This is a personal website to showcase what I'm working on, thinking about, and finding interesting.
@@ -10,12 +10,13 @@ This is a personal website to showcase what I'm working on, thinking about, and 
 Here is my [GitHub repo](https://github.com/itsmejayd/itsmejayd.github.io) repo for this website.
 The site is built using [GitHub Pages](https://pages.github.com/) and the [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/).
 
-# Links to my other relevant accounts/profiles:
+### Links to my other relevant accounts/profiles:
 
 ## // coding stuff:
 - [LeetCode](https://leetcode.com/u/jaydxp/)
 - [HackerRank](https://www.hackerrank.com/profile/josephdwyer20)
 - [picoCTF](https://play.picoctf.org/users/jaydxp)
+##
 
 ## // professional certifications & credentials:
 - [CompTIA Security+ (Credly)](https://www.credly.com/users/joseph-dwyer.775c09b5/badges)
