@@ -66,7 +66,7 @@ author:
   bio    : "Hi, I'm Joe - this is my website to showcase what I'm
             working on, thinking about, and finding interesting."
   location  : "Philadelphia area"
-  email     : "josephdwyer20@gmail.com"
+
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
@@ -77,6 +77,10 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
+
+  email     : "josephdwyer20@gmail.com"
+
+  links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
