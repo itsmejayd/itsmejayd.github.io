@@ -24,7 +24,8 @@
 <h3 align="center">GitHub Pages Personal Website</h3>
 
   <p align="center">
-
+    testyyy
+    <br />
     <a href="https://github.com/itsmejayd/itsmejayd.github.io"><strong>Explore the docs »</strong></a>
     <br />
     <br />
@@ -32,7 +33,7 @@
     ·
     <a href="https://github.com/itsmejayd/itsmejayd.github.io/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/itsmejayd/itsmejayd.github.io/issues/new?labels=enhancement&template=feature-request---.md">Request (or really, recommend, in this case) Feature</a>
+    <a href="https://github.com/itsmejayd/itsmejayd.github.io/issues/new?labels=enhancement&template=feature-request---.md">Request (or really recommend one, in this case) Feature</a>
   </p>
 </div>
 
@@ -57,10 +58,10 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![example screenshot of About][product-screenshot]](https://itsmejayd.github.com)
-
 A personal website built using GitHub Pages, Jekyll, and the Minimal Mistakes theme to showcase what I'm working on, thinking about, and finding interesting.
+
+Screenshot of the site's About page:
+[![example screenshot of About][product-screenshot]](https://itsmejayd.github.io)
 
 ### Built With
 
