@@ -8,8 +8,8 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "README"
-    url: /../README.md
+  # - title: "README"
+  #   url: /../README.md
 
 
 # # main links
