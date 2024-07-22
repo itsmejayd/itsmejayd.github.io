@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "First Post"
 excerpt_separator: "<!--more-->"
 categories:
