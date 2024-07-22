@@ -58,7 +58,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![example screenshot of About][product-screenshot]](https://itsmejayd.github.io/assets/images/website_screenshot.png)
+[![example screenshot of About][product-screenshot]](https://itsmejayd.github.com)
 
 A personal website built using GitHub Pages, Jekyll, and the Minimal Mistakes theme to showcase what I'm working on, thinking about, and finding interesting.
 
@@ -116,7 +116,7 @@ Joseph Dwyer - [jdlately](https://twitter.com/jdlately) - josephdwyer20@gmail.co
 [issues-url]: https://github.com/itsmejayd/itsmejayd.github.io/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/josephdwyer20
-[product-screenshot]: assets/images/website_screenshot
+[product-screenshot]: /assets/images/website_screenshot.png
 [pages.github.com]: https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white
 [GitHub Pages-url]: https://pages.github.com/
 [Jekyllrb.com]: https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white
