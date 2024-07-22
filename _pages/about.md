@@ -5,6 +5,11 @@ permalink: /about/
 #font:
 ---
 
+
+
+
+
+
 This is a personal website to showcase what I'm working on, thinking about, and finding interesting.
 
 Here is my [GitHub repo](https://github.com/itsmejayd/itsmejayd.github.io) repo for this website.
