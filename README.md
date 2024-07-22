@@ -22,10 +22,11 @@
   </a>
 
 <h3 align="center">GitHub Pages Personal Website</h3>
-
+<!--
   <p align="center">
     testyyy
     <br />
+    -->
     <a href="https://github.com/itsmejayd/itsmejayd.github.io"><strong>Explore the docs »</strong></a>
     <br />
     <br />
@@ -49,6 +50,7 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -61,6 +63,7 @@
 A personal website built using GitHub Pages, Jekyll, and the Minimal Mistakes theme to showcase what I'm working on, thinking about, and finding interesting.
 
 Screenshot of the site's About page:
+
 [![example screenshot of About][product-screenshot]](https://itsmejayd.github.io)
 
 ### Built With
@@ -88,11 +91,17 @@ See the [open issues](https://github.com/itsmejayd/itsmejayd.github.io/issues) f
 
 
 
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+
+
 <!-- CONTACT -->
 ## Contact
 
-# TODO: check if I need to have @ symbol here in twitter name
-Joseph Dwyer - [jdlately](https://twitter.com/jdlately) - josephdwyer20@gmail.com
+Joseph Dwyer - josephdwyer20@gmail.com - [Twitter](https://twitter.com/jdlately)
 
 
 
