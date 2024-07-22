@@ -24,7 +24,7 @@
 <h3 align="center">Git Pages Personal Website</h3>
 
   <p align="center">
-    A personal website built using GitHub Pages, Jekyll, and the Minimal Mistakes theme to showcase what I'm working on, thinking about, and finding interesting.
+
     <br />
     <a href="https://github.com/itsmejayd/itsmejayd.github.io"><strong>Explore the docs »</strong></a>
     <br />
@@ -61,12 +61,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<!--
-# TODO: include screenshot of website homepage here?
-# need to edit above html to mak sure this shows up?
-[![Product Name Screen Shot][product-screenshot]](https://itsmejayd.github.io/)
--->
+[![example screenshot of About page][product-screenshot]](https://itsmejayd.github.io/assets/images/website_screenshot.png)
 
+A personal website built using GitHub Pages, Jekyll, and the Minimal Mistakes theme to showcase what I'm working on, thinking about, and finding interesting.
 
 ### Built With
 
@@ -97,7 +94,7 @@ See the [open issues](https://github.com/itsmejayd/itsmejayd.github.io/issues) f
 ## Contact
 
 # TODO: check if I need to have @ symbol here in twitter name
-Joseph Dwyer - [@jdlately](https://twitter.com/jdlately) - josephdwyer20@gmail.com
+Joseph Dwyer - [jdlately](https://twitter.com/jdlately) - josephdwyer20@gmail.com
 
 
 
@@ -122,7 +119,7 @@ Joseph Dwyer - [@jdlately](https://twitter.com/jdlately) - josephdwyer20@gmail.c
 [issues-url]: https://github.com/itsmejayd/itsmejayd.github.io/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/josephdwyer20
-[product-screenshot]: images/flask_web_app.png
+[product-screenshot]: assets/images/website_screenshot
 [pages.github.com]: https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white
 [GitHub Pages-url]: https://pages.github.com/
 [Jekyllrb.com]: https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white
