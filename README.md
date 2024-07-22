@@ -21,11 +21,10 @@
     <img src="/assets/images/icons8-website-64.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Git Pages Personal Website</h3>
+<h3 align="center">GitHub Pages Personal Website</h3>
 
   <p align="center">
 
-    <br />
     <a href="https://github.com/itsmejayd/itsmejayd.github.io"><strong>Explore the docs »</strong></a>
     <br />
     <br />
@@ -48,8 +47,6 @@
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
-    </li>
-    <li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -61,7 +58,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![example screenshot of About page][product-screenshot]](https://itsmejayd.github.io/assets/images/website_screenshot.png)
+[![example screenshot of About][product-screenshot]](https://itsmejayd.github.io/assets/images/website_screenshot.png)
 
 A personal website built using GitHub Pages, Jekyll, and the Minimal Mistakes theme to showcase what I'm working on, thinking about, and finding interesting.
 
