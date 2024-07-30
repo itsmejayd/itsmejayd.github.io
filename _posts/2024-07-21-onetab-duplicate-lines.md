@@ -11,6 +11,7 @@ tags:
   - GitHub
   - filter
   - parser
+font: 14
 ---
 
 Have you ever heard of the browser extension/add-on called [OneTab](https://www.one-tab.com/)? <!--more-->It’s great. If you’re like me and you often end up with 30 tabs open while researching some random thing and you realize you should revisit this another time and you want to move on to something else for now, but you want to save your links and the order they were (simply from left to right) and don’t really want to spend 5-10 minutes bookmarking each one categorically or even 1-2 minutes to bookmark them haphazardly/figure out how to save a browser state and where you would find that again blah blah - Then this extension might be a great tool for you!
