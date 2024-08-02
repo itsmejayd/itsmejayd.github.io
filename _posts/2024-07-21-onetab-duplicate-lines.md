@@ -1,5 +1,5 @@
 ---
-title: "OneTab Duplicate Lines Project"
+title: "OneTab Duplicate Lines Removal Mini Project"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
