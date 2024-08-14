@@ -7,6 +7,8 @@ permalink: /about/
 
 This is a personal website to showcase what I'm working on, thinking about, and finding interesting.
 
+I might post a lot, I might post a little 🤷‍♂️.
+
 Here is my [GitHub repo](https://github.com/itsmejayd/itsmejayd.github.io) repo for this website.
 The site is built using [GitHub Pages](https://pages.github.com/) and many of the files and format from the [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/).
 
