@@ -13,6 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+# MY NOTES:
+# siteurl: https://itsmejayd.github.io
+# baseurl (for an arbitrary blog post): /blog/coding%20project/onetab-duplicate-lines/
+# embed an image in a post: ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg)
+
 title: itsmejayd
 email: josephdwyer20@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
