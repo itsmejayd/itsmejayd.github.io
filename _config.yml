@@ -21,6 +21,11 @@
 # example of embedded image in post with a link to click on it:
 # [![Screenshot of OneTab website splash page](/assets/images/onetab_splash.png)](https://www.one-tab.com/)
 
+# example with the full class added, produces a larger image:
+# Flask web app:
+# ![Screenshot of Flask web app being run in browser](/assets/images/flask_web_app.png)
+# {: .full}
+
 
 title: itsmejayd
 email: josephdwyer20@gmail.com
