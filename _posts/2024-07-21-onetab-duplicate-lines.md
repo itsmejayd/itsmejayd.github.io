@@ -18,6 +18,9 @@ Have you ever heard of the browser extension/add-on called [OneTab](https://www.
 
 [![Screenshot of OneTab website splash page](/assets/images/onetab_splash.png)](https://www.one-tab.com/)
 
+[![Screenshot of OneTab website splash page](/assets/images/onetab_splash.png)](https://www.one-tab.com/)
+{: .full}
+
 It sits as a button in your browser's toolbar like other extensions. When you have that moment of needing to move on but wanting to save this journey, you JUST CLICK THE BUTTON. Two seconds, done. It will save all the URLs in the order they were from left to right, in a grouping of URLs on a master list of saved URLs which show up in a browser tab when you click the extension. It will automatically save the date and time you saved them as well.
 
 And there are some other nice features but I won’t get into them because, believe it or not, this is not an advertisement for OneTab (its free by the way, and this is from their site: "OneTab is free of charge and is not designed to make money. It was created because we badly *needed* it for our own use, and we wanted to share it with the world.")
@@ -27,8 +30,6 @@ I’m also not only writing this to just let you know about a cool tool. That’
 First things first, to save you some time: if you don’t really care about the “story” here, let me just give you the last actionable information beyond the prospect of using OneTab: If you end up exporting/importing OneTab lists and run into issues with having many duplicates, [I made something](https://github.com/itsmejayd/filter-duplicate-lines?tab=readme-ov-file#readme-top) to help - I made a Python tool with an (optional) Flask web interface designed to remove duplicate entries from line break delimited lists while maintaining the relative position of blank lines in the input text. Originally created to clean up OneTab exports (maintaining tab groups), it can be used for any text list with similar requirements.
 
 Flask web app:
-![Screenshot of Flask web app being run in browser](/assets/images/flask_web_app.png)
-
 ![Screenshot of Flask web app being run in browser](/assets/images/flask_web_app.png)
 {: .full}
 

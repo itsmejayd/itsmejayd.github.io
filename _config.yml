@@ -18,6 +18,9 @@
 # siteurl: https://itsmejayd.github.io
 # baseurl (for an arbitrary blog post): /blog/coding%20project/onetab-duplicate-lines/
 # embed an image in a post: ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg)
+# example of embedded image in post with a link to click on it:
+# [![Screenshot of OneTab website splash page](/assets/images/onetab_splash.png)](https://www.one-tab.com/)
+
 
 title: itsmejayd
 email: josephdwyer20@gmail.com
