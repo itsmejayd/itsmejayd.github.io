@@ -34,6 +34,9 @@ First things first, to save you some time: if you don’t really care about the 
 Flask web app:
 ![Screenshot of Flask web app being run in browser](/assets/images/flask_web_app.png)
 
+![Screenshot of Flask web app being run in browser](/assets/images/flask_web_app.png)
+{: .full}
+
 I’ve been using OneTab for years, and I have used its import/export feature to sync up URL lists from different browsers and devices. Recently I was looking for some stuff which I knew I saved in there, but I was having no luck with command+f and I decided I would just manually scan through to find it. Then I saw the scroll bar. The list was huge. I copy-pasted it into a .txt file in VSC and it was nearly 4,000 lines! I started poking around and realized there were A LOT of duplicate links, and I mean like I saw more than 5 instances of link groups with 20-30 links duplicated. This was a result of my own lazy mismanagement, syncing exports/imports in a lazy but “safe” way which would retain everything from both.
 
 So, out of my long 4000 line list, how many were duplicates? It turns out nearly half of them! So how to get rid of those? Well I found some online “duplicate finder” tools but they were either looking for words or other tokens which didn’t line up with what I needed. I also did a quick web search and GitHub search for a python script to remove duplicate lines from a list but what I found wasn’t working the way I wanted and didn’t deal with maintaining the format of the empty lines between sub lists of URLs (the groupings of tabs which were “OneTab-ed” together), so I just decided to make my own little solution.
