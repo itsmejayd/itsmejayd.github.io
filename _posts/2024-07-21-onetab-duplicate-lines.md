@@ -18,7 +18,10 @@ Have you ever heard of the browser extension/add-on called [OneTab](https://www.
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/onetab_splash.png)
 
-[![Screenshot of OneTab website splash page](/itsmejayd.github.io/assets/images/onetab_splash.png)]: #
+![Screenshot of OneTab website splash page](/assets/images/onetab_splash.png)
+
+![Screenshot of OneTab website splash page]({{ site.url }}{{ site.baseurl }}/assets/images/onetab_splash.png)
+
 
 It sits as a button in your browser's toolbar like other extensions. When you have that moment of needing to move on but wanting to save this journey, you JUST CLICK THE BUTTON. Two seconds, done. It will save all the URLs in the order they were from left to right, in a grouping of URLs on a master list of saved URLs which show up in a browser tab when you click the extension. It will automatically save the date and time you saved them as well.
 
