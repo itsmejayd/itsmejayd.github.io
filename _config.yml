@@ -131,7 +131,6 @@ defaults:
       comments: false
       share: false
       related: true
-      font: 12px
   # _pages
   - scope:
       path: "_pages"

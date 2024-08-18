@@ -7,7 +7,6 @@ tags:
   - statistics
   - security
   - data vizualization
-font: 12px
 ---
 
 I recently came across an [instagram post](https://www.instagram.com/p/C6rb2_kvkHF/?igsh=MWVsZTMzMTh1eGJpaw%3D%3D&img_index=1) with this image: <!--more-->
@@ -45,8 +44,6 @@ If you add up those frequencies you get 20.552%.
 
 So in this example you have a roughly 20% chance of unlocking a given iPhone, so for about every 5 iPhones, you could expect to unlock 1!
 
-I think it might be more useful, in the hopes of convincing people to get better passcodes, to focus on that 20% number. I know this is an analysis constrained by certain (not too far fetched!) assumptions, but that number should be jarring!
-
-And if you’re thinking that you use a 6 digit pin for your phone or that you use alphanumeric for your laptop, still please do take a moment to consider that if you passcode has some basis which you thought was kind of random or secret to you, the statistics here imply there is a good chance that it’s not much of a secret really.
+I know this is an analysis constrained by certain (not too far fetched!) assumptions, but that number should be jarring! If you’re thinking that you use a 6 digit pin for your phone or that you use alphanumeric for your laptop, still please do take a moment to consider your passcodes/passwords! If it has some basis which you thought was kind of random or secret to you, the statistics here imply it might not be such a secret.
 
 [Use good passwords!!!](https://www.cisa.gov/secure-our-world/use-strong-passwords)
