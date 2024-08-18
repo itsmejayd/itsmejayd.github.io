@@ -13,8 +13,7 @@ font: 14px
 I recently came across an [instagram post](https://www.instagram.com/p/C6rb2_kvkHF/?igsh=MWVsZTMzMTh1eGJpaw%3D%3D&img_index=1) with this image: <!--more-->
 
 ![Heatmap Data Visualization](/assets/images/passcode_problems_images/big_pin_pic.png)
-{: .full}
-(source of image: https://informationisbeautiful.net/visualizations/most-common-pin-codes/)
+(source of image: https://informationisbeautiful.net/visualizations/most-common-pin-codes/){font: 10px}
 
 Pretty interesting, I was curious about the way this data was sourced and what methods were used, so I looked a bit into it. The data sourcing, analysis, visualization, and write up are from this [fantastic article](http://www.datagenetics.com/blog/september32012/index.html) by Nick Berry. ![DataGenics article screenshot](/assets/images/passcode_problems_images/datagenics_screenshit.png){: .align-right} I highly suggest checking it out, especially if you’d like to see some great analysis why certain numbers are so likely.
 
