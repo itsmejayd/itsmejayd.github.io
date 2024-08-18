@@ -15,7 +15,7 @@ I recently came across an [instagram post](https://www.instagram.com/p/C6rb2_kvk
 ![Heatmap Data Visualization](/assets/images/passcode_problems_images/big_pin_pic.png)
 [image source](https://informationisbeautiful.net/visualizations/most-common-pin-codes/)
 
-Pretty interesting, I was curious about the way this data was sourced and what methods were used, so I looked a bit into it. The data sourcing, analysis, visualization, and write up are from this [fantastic article](http://www.datagenetics.com/blog/september32012/index.html) by Nick Berry. I highly suggest checking it out, especially if you’d like to see some great analysis why certain numbers are so likely.
+Pretty interesting, I was curious about the way this data was sourced and what methods were used, so I looked a bit into it. The data sourcing, analysis, visualization, and write up are from this [fantastic article](http://www.datagenetics.com/blog/september32012/index.html) by Nick Berry. I highly suggest checking it out, especially if you’d like to see some great analysis on why certain numbers are likely.
 
 Anyway, I was reading through it and thinking about the 4 digit pin number I am most familiar with in my life and that I see in the lives of so many people around me: my phone’s passcode.
 
