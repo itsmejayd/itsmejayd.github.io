@@ -28,7 +28,7 @@ Note: I’m ignoring android smartphones here because they are much less common 
 
 Now to answer the question:
 
-For each iPhone, you get 5 guesses at the passcode before the first lockout
+For each iPhone, you get 5 guesses at the passcode before the first lockout.
 
 From the data given in the [DataGenics article](http://www.datagenetics.com/blog/september32012/index.html), you could choose the 5 most common pins to guess:
 
