@@ -12,17 +12,17 @@ I might post a lot, I might post a little 🤷‍♂️.
 Here is my [GitHub repo](https://github.com/itsmejayd/itsmejayd.github.io) repo for this website.
 The site is built using [GitHub Pages](https://pages.github.com/) and many of the files and format from the [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/).
 
-Links to my other relevant accounts/profiles:
-
-## // coding problems/challenges:
-- [LeetCode](https://leetcode.com/u/jaydxp/)
-- [HackerRank](https://www.hackerrank.com/profile/josephdwyer20)
-- [picoCTF](https://play.picoctf.org/users/jaydxp)
+Some of my relevant online stuff:
 
 ## // professional certifications & credentials:
 - [CompTIA Security+ (Credly)](https://www.credly.com/users/joseph-dwyer.775c09b5/badges)
 - [Supervised Machine Learning: Regression and Classification (Coursera)](https://www.coursera.org/user/6176879fddce1be97be854ee6de9779b)
 - [Microsoft Certified: Azure Fundamentals (Microsoft)](https://learn.microsoft.com/en-us/users/josephdwyer-5720/credentials/89cd64d6eeea87)
+
+## // coding problems/challenges:
+- [LeetCode](https://leetcode.com/u/jaydxp/)
+- [HackerRank](https://www.hackerrank.com/profile/josephdwyer20)
+- [picoCTF](https://play.picoctf.org/users/jaydxp)
 
 ## // contact me:
 - Email:  josephdwyer20@gmail.com
