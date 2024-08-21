@@ -8,6 +8,11 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
+  - title: testtab
+    sublinks:
+      title: testsubpage
+      url: /testpath/
+
   # - title: "README"
   #   url: /../README.md
 
