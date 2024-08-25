@@ -11,9 +11,8 @@ Here is my [GitHub repo](https://github.com/itsmejayd/itsmejayd.github.io) repo 
 The site is built using [GitHub Pages](https://pages.github.com/) and many of the files and format from the [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/).
 
 
+
 Some of my relevant online stuff:
-
-
 ## // professional certifications & credentials:
 - [CompTIA Security+ (Credly)](https://www.credly.com/users/joseph-dwyer.775c09b5/badges)
 - [Supervised Machine Learning: Regression and Classification (Coursera)](https://www.coursera.org/user/6176879fddce1be97be854ee6de9779b)
