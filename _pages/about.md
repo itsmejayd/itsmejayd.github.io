@@ -5,11 +5,9 @@ permalink: /about/
 #font:
 ---
 
-(assets/gifs/construction.gif)
+![under_construction](assets/gifs/construction.gif)
 
-This is a personal website to make available what I'm working on, thinking about, and finding interesting... and whatever else 🙂.
-
-I might post a lot, I might post a little 🤷‍♂️.
+Welcome to my site. I might post a lot, I might post a little 🤷‍♂️.
 
 Here is my [GitHub repo](https://github.com/itsmejayd/itsmejayd.github.io) repo for this website.
 The site is built using [GitHub Pages](https://pages.github.com/) and many of the files and format from the [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/).
