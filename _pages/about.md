@@ -4,10 +4,13 @@ permalink: /about/
 #layout: page
 #font:
 ---
+⚠️ this website is under construction
 
-⚠️website under construction⚠️
-
+#### // website build info:
 ### // website build info:
+## // website build info:
+# // website build info:
+
 Here is my [GitHub repo](https://github.com/itsmejayd/itsmejayd.github.io) repo for this website.
 The site is built using [GitHub Pages](https://pages.github.com/) and many of the files and format from the [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/).
 
