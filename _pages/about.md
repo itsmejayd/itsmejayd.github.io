@@ -5,10 +5,9 @@ permalink: /about/
 #font:
 ---
 
-![under_construction](assets/gifs/construction.gif)
+⚠️ Website is under construction ⚠️
 
-Welcome to my site. I might post a lot, I might post a little 🤷‍♂️.
-
+## // website build info:
 Here is my [GitHub repo](https://github.com/itsmejayd/itsmejayd.github.io) repo for this website.
 The site is built using [GitHub Pages](https://pages.github.com/) and many of the files and format from the [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/).
 
