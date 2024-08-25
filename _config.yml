@@ -27,7 +27,7 @@
 # {: .full}
 
 
-title: itsmejayd                      "⚠️website under construction⚠️"
+title: itsmejayd                  ⚠️website under construction⚠️
 email: josephdwyer20@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A personal website built using GitHub Pages and the Minimal Mistakes Jekyll theme
@@ -82,7 +82,7 @@ author:
   bio    : "Hi, I'm Joe - this is my website to
             make available what I'm working on,
             thinking about, and finding
-            interesting... and whatever else 🙂.
+            interesting... and whatever else 🙂.    
             I might post a lot, I might post a little 🤷‍♂️."
   location  : "Philadelphia area"
   email     : "josephdwyer20@gmail.com"
