@@ -4,7 +4,7 @@ permalink: /about/
 #layout: page
 #font:
 ---
-⚠️ this website is under construction
+⚠️  this website is under construction
 
 ## // website build info:
 Here is my [GitHub repo](https://github.com/itsmejayd/itsmejayd.github.io) repo for this website.
