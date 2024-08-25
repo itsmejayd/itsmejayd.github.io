@@ -5,7 +5,7 @@ permalink: /about/
 #font:
 ---
 
-This is a personal website to showcase what I'm working on, thinking about, and finding interesting.
+This is a personal website to make available what I'm working on, thinking about, and finding interesting... and whatever else 🙂.
 
 I might post a lot, I might post a little 🤷‍♂️.
 
