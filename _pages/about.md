@@ -5,13 +5,15 @@ permalink: /about/
 #font:
 ---
 
-⚠️ Website is under construction ⚠️
+⚠️website under construction⚠️
 
 ## // website build info:
 Here is my [GitHub repo](https://github.com/itsmejayd/itsmejayd.github.io) repo for this website.
 The site is built using [GitHub Pages](https://pages.github.com/) and many of the files and format from the [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/).
 
+
 Some of my relevant online stuff:
+
 
 ## // professional certifications & credentials:
 - [CompTIA Security+ (Credly)](https://www.credly.com/users/joseph-dwyer.775c09b5/badges)
