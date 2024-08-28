@@ -15,7 +15,8 @@ tags:
   - ITIL
 ---
 
-This page is basically just a directory of links.<!--more--> I have a hodgepodge of useful bookmarks accumulated over time in a yet-to-be-well-organized bookmark directory and I wanted to group up a few of them for specific topics (this page being for links related to standards/frameworks/policy stuff). I figured I might as well post it here for my own reference and so others might get use from it! These links are in no particular order, though I’ll try to provide a brief description of what each one is here.  
+This page is basically just a directory of links.<!--more--> I have a hodgepodge of useful bookmarks accumulated over time in a yet-to-be-well-organized bookmark directory and I wanted to group up a few of them for specific topics (this page being for links related to standards/frameworks/policy stuff). I figured I might as well post it here for my own reference and so others might get use from it! These links are in no particular order, though I’ll try to provide a brief description of what each one is here.
+
 <p>&nbsp;</p>
 # NIST (National Institute of Standards and Technology):
 ## [NIST Frameworks](https://www.nist.gov/frameworks)
@@ -27,5 +28,6 @@ This page is basically just a directory of links.<!--more--> I have a hodgepodge
 * is a set of guidelines designed to help organizations of all types manage and reduce cybersecurity risks through improved governance, risk management, and communication strategies
 * [further summary details on the CSF](https://www.connectwise.com/cybersecurity-center/glossary/nist-cybersecurity-framework)
 
-# NEXT:
+<p>&nbsp;</p>
+# ISO ():
 ## [NIST Frameworks](https://www.nist.gov/frameworks)
