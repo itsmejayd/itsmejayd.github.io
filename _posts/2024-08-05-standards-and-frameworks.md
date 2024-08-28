@@ -20,8 +20,8 @@ This page is basically just a directory of links.<!--more--> I have a hodgepodge
 I might add a table of contents for these link dump pages at a later date because some of them are pretty long... but for now if anyone is reading this, command/crtl+f will have to suffice.
 
 <p>&nbsp;</p>
-# NIST [(National Institute of Standards and Technology):](https://www.nist.gov/home)
-* What is NIST?
+# NIST (National Institute of Standards and Technology):
+## What is NIST?
     * NIST is a U.S. federal agency that develops and promotes measurement standards, guidelines, and technologies to enhance innovation, industrial competitiveness, and public safety across various sectors, including cybersecurity, manufacturing, and technology.
 
 ## [NIST Frameworks](https://www.nist.gov/frameworks)
@@ -37,6 +37,7 @@ I might add a table of contents for these link dump pages at a later date becaus
     * ISO is a global body that develops and publishes consensus-based standards to ensure interoperability, safety, and quality across diverse industries and sectors
 ## ISO 27001 (and ISO 27002)
 * is an international standard for information security management systems (ISMS) that provides a systematic approach to managing sensitive company information, ensuring its confidentiality, integrity, and availability.
+
 * 27001 vs 27002: "the controls in ISO 27001 and ISO 27002 are exactly the same; the only difference is that
 ISO 27002 provides detailed guidance on how the controls could be implemented" ([page 3](https://info.advisera.com/hubfs/27001Academy/27001Academy_FreeDownloads/Overview_of_New_Security_Controls_in_ISO_27002_EN.pdf))
 * The most current edition of this standard is [available on the ISO site](https://www.iso.org/standard/27001), but it costs about $150 as of the writing of this article. This most current 3rd edition was publishes in 2022. I've tried finding pdfs of the current edition around online, no luck. I also tried using my alumni access to various publications to get access to this elusive document. Contacted the alumni association and everything. No luck... But, there is more information available about the previous edition published in 2013, and some information about what is different (lots of overlap):
