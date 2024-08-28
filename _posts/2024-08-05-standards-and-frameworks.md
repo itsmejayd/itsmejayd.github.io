@@ -16,8 +16,10 @@ tags:
 ---
 
 This page is basically just a directory of links.<!--more--> I have a hodgepodge of useful bookmarks accumulated over time in a yet-to-be-well-organized bookmark directory and I wanted to group up a few of them for specific topics (this page being for links related to standards/frameworks/policy stuff). I figured I might as well post it here for my own reference and so others might get use from it! These links are in no particular order, though I’ll try to provide a brief description of what each one is here.  
+
 \\
-# NIST
+
+# NIST:
 ## [NIST Frameworks](https://www.nist.gov/frameworks)
 * provide guidance for organizations to address cybersecurity, privacy, AI, and other risks through various frameworks, including the Cybersecurity Framework and Risk Management Framework.
 * The above link is to the page for info/docs on their frameworks (free pdfs).
