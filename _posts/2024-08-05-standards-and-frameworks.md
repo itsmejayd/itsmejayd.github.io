@@ -20,7 +20,7 @@ This page is basically just a directory of links.<!--more--> I have a hodgepodge
 I might add a table of contents for these link dump pages at a later date because some of them are pretty long... but for now if anyone is reading this, command/crtl+f will have to suffice.
 
 <p>&nbsp;</p>
-# NIST (National Institute of Standards and Technology):
+# NIST [(National Institute of Standards and Technology):](https://www.nist.gov/home)
 * What is NIST?
     * NIST is a U.S. federal agency that develops and promotes measurement standards, guidelines, and technologies to enhance innovation, industrial competitiveness, and public safety across various sectors, including cybersecurity, manufacturing, and technology.
 
@@ -30,7 +30,7 @@ I might add a table of contents for these link dump pages at a later date becaus
 ## [NIST CSF (NIST Cybersecurity Framework)](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf)
 * is a set of guidelines designed to help organizations of all types manage and reduce cybersecurity risks through improved governance, risk management, and communication strategies
 * [further summary details on the CSF](https://www.connectwise.com/cybersecurity-center/glossary/nist-cybersecurity-framework)
-
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 # ISO (International Organization for Standardization):
 * What is ISO?
