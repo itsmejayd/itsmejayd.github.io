@@ -60,7 +60,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-A personal website built using GitHub Pages, Jekyll, and the Minimal Mistakes theme to showcase what I'm working on, thinking about, and finding interesting.
+A personal website for what I'm working on, thinking about, and finding interesting. Or whatever else. Built using GitHub Pages, Jekyll, and the Minimal Mistakes theme.
 
 Screenshot of the site's About page:
 
