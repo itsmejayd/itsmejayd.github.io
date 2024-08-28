@@ -22,19 +22,20 @@ I might add a table of contents for these link dump pages at a later date becaus
 <p>&nbsp;</p>
 # NIST (National Institute of Standards and Technology):
 ## What is NIST?
-    * NIST is a U.S. federal agency that develops and promotes measurement standards, guidelines, and technologies to enhance innovation, industrial competitiveness, and public safety across various sectors, including cybersecurity, manufacturing, and technology.
+  * NIST is a U.S. federal agency that develops and promotes measurement standards, guidelines, and technologies to enhance innovation, industrial competitiveness, and public safety across various sectors, including cybersecurity, manufacturing, and technology.
 
 ## [NIST Frameworks](https://www.nist.gov/frameworks)
 * these frameworks provide guidance for organizations to address cybersecurity, privacy, AI, and other risks through various frameworks, including the Cybersecurity Framework and Risk Management Framework.
 
-## [NIST CSF (NIST Cybersecurity Framework)](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf)
+## [NIST CSF (Cybersecurity Framework)](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf)
 * is a set of guidelines designed to help organizations of all types manage and reduce cybersecurity risks through improved governance, risk management, and communication strategies
 * [further summary details on the CSF](https://www.connectwise.com/cybersecurity-center/glossary/nist-cybersecurity-framework)
-<p>&nbsp;</p>
+
 <p>&nbsp;</p>
 # ISO (International Organization for Standardization):
-* What is ISO?
-    * ISO is a global body that develops and publishes consensus-based standards to ensure interoperability, safety, and quality across diverse industries and sectors
+## What is ISO?
+* ISO is a global body that develops and publishes consensus-based standards to ensure interoperability, safety, and quality across diverse industries and sectors
+
 ## ISO 27001 (and ISO 27002)
 * is an international standard for information security management systems (ISMS) that provides a systematic approach to managing sensitive company information, ensuring its confidentiality, integrity, and availability.
 
