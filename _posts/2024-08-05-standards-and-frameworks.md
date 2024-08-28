@@ -17,12 +17,13 @@ tags:
 
 This page is basically just a directory of links.<!--more--> I have a hodgepodge of useful bookmarks accumulated over time in a yet-to-be-well-organized bookmark directory and I wanted to group up a few of them for specific topics (this page being for links related to standards/frameworks/policy stuff). I figured I might as well post it here for my own reference and so others might get use from it! These links are in no particular order, though I’ll try to provide a brief description of what each one is here.
 
-Might include a table of contents for these at a later date because some of them are so long... but for now if anyone is reading this, command/crtl+f will have to suffice.
+I might add a table of contents for these link dump pages at a later date because some of them are pretty long... but for now if anyone is reading this, command/crtl+f will have to suffice.
 
 <p>&nbsp;</p>
 # NIST (National Institute of Standards and Technology):
 * What is NIST?
     * NIST is a U.S. federal agency that develops and promotes measurement standards, guidelines, and technologies to enhance innovation, industrial competitiveness, and public safety across various sectors, including cybersecurity, manufacturing, and technology.
+
 ## [NIST Frameworks](https://www.nist.gov/frameworks)
 * these frameworks provide guidance for organizations to address cybersecurity, privacy, AI, and other risks through various frameworks, including the Cybersecurity Framework and Risk Management Framework.
 
