@@ -28,7 +28,7 @@ I might add a table of contents for these link dump pages at a later date becaus
     * Frequency
     * Attack type
 * Some visualization techniques include heat maps, graphs and timelines so that users understand the information more easily.'
-[(paraphrased from splunk)](https://www.splunk.com/en_us/blog/learn/cyberattack-maps.html)
+([paraphrased from splunk)](https://www.splunk.com/en_us/blog/learn/cyberattack-maps.html))
 
 ## [Check Point Cyber Threat Map](https://threatmap.checkpoint.com/)
 * Provides a real-time visualization of cyberattacks worldwide.
@@ -40,4 +40,4 @@ I might add a table of contents for these link dump pages at a later date becaus
 
 # Miscellaneous Tools (basic yet important & useful [opsec](https://csrc.nist.gov/glossary/term/operations_security)/[netsec](https://en.wikipedia.org/wiki/Network_security) resources):
 ## [Cover Your Tracks](https://coveryourtracks.eff.org/)
-* "Cover Your Tracks is two things: a tool for users to understand how unique and identifiable their browser makes them online, and a research project to uncover the tools and techniques of online trackers and test the efficacy of privacy add-ons."[(from their about page)](https://coveryourtracks.eff.org/about)
+* "Cover Your Tracks is two things: a tool for users to understand how unique and identifiable their browser makes them online, and a research project to uncover the tools and techniques of online trackers and test the efficacy of privacy add-ons."([from their about page](https://coveryourtracks.eff.org/about))
