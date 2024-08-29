@@ -55,7 +55,7 @@ ISO 27002 provides detailed guidance on how the controls could be implemented".(
 * It's a leading organization providing information security training, certification, and research to individuals and organizations. "SANS" stands for SysAdmin, Audit, Network, and Security.
 * [SANS website](https://www.sans.org/)
 
-## [Security Policy Templates](https://www.sans.org/information-security-policy/?per-page=100)
+## [SANS Security Policy Templates](https://www.sans.org/information-security-policy/?per-page=100)
 * Do you need to create/audit a security policy like an acceptable use policy or an incident response plan? This is a great resource for you!
 
 <p>&nbsp;</p>
