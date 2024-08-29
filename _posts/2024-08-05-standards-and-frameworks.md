@@ -62,7 +62,7 @@ ISO 27002 provides detailed guidance on how the controls could be implemented".(
 # ITIL (Information Technology Infrastructure Library):
 ## What is ITIL?
 * a framework of best practices for IT service management that provides guidelines for aligning IT services with business strategy.
-## [A guide to ITIL and its place in modern ITSM (IT Service Management)] (https://www.atlassian.com/itsm/itil#:~:text=ITIL%20(Information%20Technology%20Infrastructure%20Library,IT%20services%20with%20business%20strategy.)
+## [A guide to ITIL and its place in modern ITSM (IT Service Management)](https://www.atlassian.com/itsm/itil#:~:text=ITIL%20(Information%20Technology%20Infrastructure%20Library,IT%20services%20with%20business%20strategy.)
 
 <p>&nbsp;</p>
 # PCI DSS (Payment Card Industry Data Security Standard):
