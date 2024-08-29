@@ -31,6 +31,12 @@ I might add a table of contents for these link dump pages at a later date becaus
 [(paraphrased from splunk)](https://www.splunk.com/en_us/blog/learn/cyberattack-maps.html)
 
 ## [Digital Attack Map](https://www.digitalattackmap.com/#anim=1&color=0&country=ALL&list=0&time=18763&view=map)
-* Provides a real-time visualization of Distributed Denial of Service (DDoS) attacks globally.
+* This one is my favorite, so cool.
+* Provides a real-time visualization of Distributed Denial of Service (DDoS) attacks worldwide.
 * Shows data on the largest reported DDoS attacks, highlighting their sources and targets.
 * Users can view specific details such as the duration, size, and type of attacks, and filter the data by various criteria, like country or attack type.
+
+## [Check Point Cyber Threat Map](https://threatmap.checkpoint.com/)
+* Provides a real-time visualization of cyberattacks worldwide.
+* Displays data on the sources and targets of attacks, showing the volume and types of threats detected.
+* The map is dynamic, with attacks represented as lines connecting the origin to the destination, providing insight into global cyber threat patterns.

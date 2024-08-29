@@ -23,19 +23,19 @@ I might add a table of contents for these link dump pages at a later date becaus
 <p>&nbsp;</p>
 # NIST (National Institute of Standards and Technology):
 ## What is NIST?
-* a U.S. federal agency that develops and promotes measurement standards, guidelines, and technologies to enhance innovation, industrial competitiveness, and public safety across various sectors, including cybersecurity, manufacturing, and technology.
+* It's a U.S. federal agency that develops and promotes measurement standards, guidelines, and technologies to enhance innovation, industrial competitiveness, and public safety across various sectors, including cybersecurity, manufacturing, and technology.
 
 ## [NIST Frameworks](https://www.nist.gov/frameworks)
-* these frameworks provide guidance for organizations to address cybersecurity, privacy, AI, and other risks through various frameworks, including the Cybersecurity Framework and Risk Management Framework.
+* These frameworks provide guidance for organizations to address cybersecurity, privacy, AI, and other risks through various frameworks, including the Cybersecurity Framework and Risk Management Framework.
 
 ## [NIST CSF (Cybersecurity Framework)](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf)
-* CSF is a set of guidelines designed to help organizations of all types manage and reduce cybersecurity risks through improved governance, risk management, and communication strategies
+* CSF is a set of guidelines designed to help organizations of all types manage and reduce cybersecurity risks through improved governance, risk management, and communication strategies.
 * [further summary details on the CSF](https://www.connectwise.com/cybersecurity-center/glossary/nist-cybersecurity-framework)
 
 <p>&nbsp;</p>
 # ISO (International Organization for Standardization):
 ## What is ISO?
-* a global body that develops and publishes consensus-based standards to ensure interoperability, safety, and quality across diverse industries and sectors
+* It's a global body that develops and publishes consensus-based standards to ensure interoperability, safety, and quality across diverse industries and sectors.
 
 ## ISO 27001 (and ISO 27002)
 * ISO 27001 is an international standard for information security management systems (ISMS) that provides a systematic approach to managing sensitive company information, ensuring its confidentiality, integrity, and availability.
@@ -52,7 +52,7 @@ ISO 27002 provides detailed guidance on how the controls could be implemented".(
 <p>&nbsp;</p>
 # SANS Institute:
 ## What is The SANS Institute?
-* a leading organization providing information security training, certification, and research to individuals and organizations. "SANS" stands for SysAdmin, Audit, Network, and Security.
+* It's a leading organization providing information security training, certification, and research to individuals and organizations. "SANS" stands for SysAdmin, Audit, Network, and Security.
 * [SANS website](https://www.sans.org/)
 
 ## [Security Policy Templates](https://www.sans.org/information-security-policy/?per-page=100)
@@ -61,7 +61,7 @@ ISO 27002 provides detailed guidance on how the controls could be implemented".(
 <p>&nbsp;</p>
 # ITIL (Information Technology Infrastructure Library):
 ## What is ITIL?
-* a framework of best practices for IT service management that provides guidelines for aligning IT services with business strategy.
+* It's a framework of best practices for IT service management that provides guidelines for aligning IT services with business strategy.
 
 ## [A guide to ITIL and its place in modern ITSM (IT Service Management)](https://www.atlassian.com/itsm/itil)
 * There is also a lot of other ITSM info found at the above link.
@@ -69,7 +69,7 @@ ISO 27002 provides detailed guidance on how the controls could be implemented".(
 <p>&nbsp;</p>
 # PCI DSS (Payment Card Industry Data Security Standard):
 ## What is PCI DSS?
-* a set of security standards designed to protect cardholder data and ensure secure payment processing by setting requirements for data security and risk management.
+* It's a set of security standards designed to protect cardholder data and ensure secure payment processing by setting requirements for data security and risk management.
 * [further details about PCI DSS](https://www.techtarget.com/searchsecurity/definition/PCI-DSS-Payment-Card-Industry-Data-Security-Standard#:~:text=PCI%20DSS%20was%20created%20in,Discover%2C%20JCB%20and%20American%20Express.)
 * [organization's website](https://www.pcisecuritystandards.org/)
 * [PCI DSS Quick Reference Guide](https://listings.pcisecuritystandards.org/documents/PCI_DSS-QRG-v3_2_1.pdf)
