@@ -66,12 +66,6 @@ ISO 27002 provides detailed guidance on how the controls could be implemented".(
 ## [A guide to ITIL and its place in modern ITSM (IT Service Management)](https://www.atlassian.com/itsm/itil)
 * There is also a lot of other ITSM info found at this link.
 
----
-
----
-
----
-
 <p>&nbsp;</p>
 # PCI DSS (Payment Card Industry Data Security Standard):
 ## What is PCI DSS?
