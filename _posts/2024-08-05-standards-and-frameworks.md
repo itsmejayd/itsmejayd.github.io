@@ -72,6 +72,7 @@ ISO 27002 provides detailed guidance on how the controls could be implemented".(
 
 ---
 
+<p>&nbsp;</p>
 # PCI DSS (Payment Card Industry Data Security Standard):
 ## What is PCI DSS?
 * a set of security standards designed to protect cardholder data and ensure secure payment processing by setting requirements for data security and risk management.
