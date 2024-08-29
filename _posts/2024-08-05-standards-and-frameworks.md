@@ -64,7 +64,7 @@ ISO 27002 provides detailed guidance on how the controls could be implemented".(
 * a framework of best practices for IT service management that provides guidelines for aligning IT services with business strategy.
 
 ## [A guide to ITIL and its place in modern ITSM (IT Service Management)](https://www.atlassian.com/itsm/itil)
-* There is also a lot of other ITSM info found at this link.
+* There is also a lot of other ITSM info found at the above link.
 
 <p>&nbsp;</p>
 # PCI DSS (Payment Card Industry Data Security Standard):
