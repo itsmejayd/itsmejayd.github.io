@@ -30,13 +30,10 @@ I might add a table of contents for these link dump pages at a later date becaus
 * Some visualization techniques include heat maps, graphs and timelines so that users understand the information more easily.'
 [(paraphrased from splunk)](https://www.splunk.com/en_us/blog/learn/cyberattack-maps.html)
 
-## [Digital Attack Map](https://www.digitalattackmap.com/#anim=1&color=0&country=ALL&list=0&time=18763&view=map)
-* This one is my favorite, so cool.
-* Provides a real-time visualization of Distributed Denial of Service (DDoS) attacks worldwide.
-* Shows data on the largest reported DDoS attacks, highlighting their sources and targets.
-* Users can view specific details such as the duration, size, and type of attacks, and filter the data by various criteria, like country or attack type.
-
 ## [Check Point Cyber Threat Map](https://threatmap.checkpoint.com/)
 * Provides a real-time visualization of cyberattacks worldwide.
 * Displays data on the sources and targets of attacks, showing the volume and types of threats detected.
 * The map is dynamic, with attacks represented as lines connecting the origin to the destination, providing insight into global cyber threat patterns.
+
+## [Digital Attack Map (depricated)](https://www.digitalattackmap.com/#anim=1&color=0&country=ALL&list=0&time=18763&view=map)
+* This one *was* my favorite, but it seems it stopped updating in 2021. Still interesting to check it out to see the design and sources of a cool threat map dashboard. Also useful for historical attack data analysis.
