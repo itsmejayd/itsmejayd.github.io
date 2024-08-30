@@ -28,7 +28,7 @@ I might add a table of contents for these link dump pages at a later date becaus
     * Frequency
     * Attack type
 * Some visualization techniques include heat maps, graphs and timelines so that users understand the information more easily.'
-([paraphrased from splunk)](https://www.splunk.com/en_us/blog/learn/cyberattack-maps.html))
+([paraphrased from splunk](https://www.splunk.com/en_us/blog/learn/cyberattack-maps.html))
 
 ## [Check Point Cyber Threat Map](https://threatmap.checkpoint.com/)
 * Provides a real-time visualization of cyberattacks worldwide.
