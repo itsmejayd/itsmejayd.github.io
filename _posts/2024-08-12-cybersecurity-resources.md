@@ -39,7 +39,6 @@ I might add a table of contents for these link dump pages at a later date becaus
 * This one *was* my favorite, but it seems the site hasn't been updating since 2021. Still interesting to check it out to see the design and sources/methods of a cool threat map dashboard. Also useful for historical attack data analysis.
 
 <p>&nbsp;</p>
-# Miscellaneous Tools:
-## (these are basic yet important & useful [opsec](https://csrc.nist.gov/glossary/term/operations_security)/[netsec](https://en.wikipedia.org/wiki/Network_security) resources):
+# Miscellaneous Tools:## (these are basic yet important & useful [opsec](https://csrc.nist.gov/glossary/term/operations_security)/[netsec](https://en.wikipedia.org/wiki/Network_security) resources):
 ## [Cover Your Tracks](https://coveryourtracks.eff.org/)
 * "Cover Your Tracks is two things: a tool for users to understand how unique and identifiable their browser makes them online, and a research project to uncover the tools and techniques of online trackers and test the efficacy of privacy add-ons."([from their about page](https://coveryourtracks.eff.org/about))
