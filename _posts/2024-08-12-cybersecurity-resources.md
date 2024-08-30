@@ -42,4 +42,25 @@ I might add a table of contents for these link dump pages at a later date becaus
 # Miscellaneous Tools:
 (these are basic yet important & useful [opsec](https://csrc.nist.gov/glossary/term/operations_security)/[netsec](https://en.wikipedia.org/wiki/Network_security) resources):
 ## [Cover Your Tracks](https://coveryourtracks.eff.org/)
-* "Cover Your Tracks is two things: a tool for users to understand how unique and identifiable their browser makes them online, and a research project to uncover the tools and techniques of online trackers and test the efficacy of privacy add-ons."([from their about page](https://coveryourtracks.eff.org/about))
+* "Cover Your Tracks is two things: a tool for users to understand how unique and identifiable their browser makes them online, and a research project to uncover the tools and techniques of online trackers and test the efficacy of privacy add-ons." ([from their about page](https://coveryourtracks.eff.org/about))
+
+<p>&nbsp;</p>
+# Password Managers:
+(YOU SHOULD BE USING ONE, PLEASE USE ONE)
+
+The managers most people may be familiar with are the ones built into google chrome or iOS ("autofill password"). These are good to use, and I would recommend using them over not using anything... but I do think I only trust them as much as I trust google or apple generally... which is less than I trust open source, non profit, 3rd party verifiable things.
+
+## What is a password manager?
+* A password manager securely stores and organizes passwords in an encrypted database, allowing users to manage multiple passwords with a single master password. It helps generate strong, unique passwords and can autofill credentials on websites, enhancing both security and convenience by reducing the risk of using weak or repeated passwords.
+
+## [KeePass](https://keepass.info/download.html)
+* This software is open source and non profit!
+* Provides official versions of the KeePass password manager, including the main program, plugins, and additional resources. It offers various versions for Windows and portable options, along with detailed installation instructions and links to source code and older versions.
+
+## [KeePassXC](https://keepassxc.org)
+* This software is open source and non profit!
+* Offers a cross-platform, community-driven variant of KeePass, with enhanced features and a more modern interface. It provides download links for Windows, macOS, and Linux, along with documentation, security details, and community resources.
+
+## What is the difference between KeePass and KeePassXC?
+* KeePass is the original password manager, while KeePassXC is a community-developed fork focused on cross-platform compatibility and additional features.
+* For most use cases and for more convenience I would recommend KeePassXC .
