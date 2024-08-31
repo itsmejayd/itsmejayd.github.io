@@ -31,6 +31,7 @@ I might add a table of contents for these link dump pages at a later date becaus
 ([paraphrased from splunk](https://www.splunk.com/en_us/blog/learn/cyberattack-maps.html))
 
 ## [Check Point Cyber Threat Map](https://threatmap.checkpoint.com/)
+[![Screenshot of threat map website](/assets/images/checkpoint_threatmap.png)]
 * Provides a real-time visualization of cyberattacks worldwide.
 * Displays data on the sources and targets of attacks, showing the volume and types of threats detected.
 * The map is dynamic, with attacks represented as lines connecting the origin to the destination, providing insight into global cyber threat patterns.
