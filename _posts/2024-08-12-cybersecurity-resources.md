@@ -60,7 +60,7 @@ I might add a table of contents for these link dump pages at a later date becaus
 
 <p>&nbsp;</p>
 # Miscellaneous Tools:
-(these are basic yet useful resources):
+(some basic yet useful resources):
 ## [PGP Encryption](https://www.openpgp.org/software/)
 * OpenPGP.org is the official site for the OpenPGP standard, which provides encryption for secure email communication. It offers resources and tools like GnuPG, a widely-used software for encrypting and signing data, along with guidelines for implementing OpenPGP in various applications to enhance privacy and security.
 
