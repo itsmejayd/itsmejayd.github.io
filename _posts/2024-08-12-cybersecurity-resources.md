@@ -97,9 +97,9 @@ The managers most people may be familiar with are the ones built into google chr
 * For most use cases and for more convenience I would recommend KeePassXC .
 
 <p>&nbsp;</p>
-# RFID Hacking/Security:
-## * [Exploitation of Radio Frequency Technologies Through the use of Microcontrollers](https://www.iaria.org/conferences2020/fileseLmL20/eLmL_58009.pdf)
+# RFID Hacking & Security:
+* [Exploitation of Radio Frequency Technologies Through the use of Microcontrollers](https://www.iaria.org/conferences2020/fileseLmL20/eLmL_58009.pdf)
 
-## * [A 2018 practical guide to hacking NFC/RFID](https://smartlockpicking.com/slides/Confidence_A_2018_Practical_Guide_To_Hacking_RFID_NFC.pdf)
+* [A 2018 practical guide to hacking NFC/RFID](https://smartlockpicking.com/slides/Confidence_A_2018_Practical_Guide_To_Hacking_RFID_NFC.pdf)
 
-## * [Step-by-Step Tutorial: How to Copy or Clone Access Cards and Key Fobs](https://www.getkisi.com/blog/how-to-copy-access-cards-and-keyfobs)
+* [Step-by-Step Tutorial: How to Copy or Clone Access Cards and Key Fobs](https://www.getkisi.com/blog/how-to-copy-access-cards-and-keyfobs)
