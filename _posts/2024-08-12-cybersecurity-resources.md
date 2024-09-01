@@ -41,6 +41,23 @@ I might add a table of contents for these link dump pages at a later date becaus
 * This one *was* my favorite, but it seems the site hasn't been updating since 2021. Still interesting to check it out to see the design and sources/methods of a cool threat map dashboard. Also useful for historical attack data analysis.
 
 <p>&nbsp;</p>
+# Educational Resources:
+## [OST2 (OpenSecurityTraining2)](https://p.ost2.fyi/courses)
+![Screenshot of website](/assets/images/cybersecurity_resources_images/ost2.png)
+* OST2 is an educational platform offering free, advanced cybersecurity training through detailed courses and resources, focusing on topics like reverse engineering, malware analysis, and system internals.
+
+## [picoCTF](https://play.picoctf.org/login)
+![Screenshot of website](/assets/images/cybersecurity_resources_images/picoctf.png)
+* picoCTF (pico = small, CTF = capture the flag) is a free, online cybersecurity competition designed for students, offering interactive challenges that teach computer security and hacking techniques in a gamified format.
+
+<p>&nbsp;</p>
+# Career Information/Resources:
+## [Cyber Seek](https://www.cyberseek.org/)
+* CyberSeek.org is a tool that offers interactive maps, heat charts, and career pathways to visualize the cybersecurity job market, highlighting in-demand roles, required certifications, and career progression opportunities. It’s designed to support job seekers, educators, and employers in addressing the cybersecurity talent gap.
+    * [Cybersecurity supply/demand heat map](https://www.cyberseek.org/heatmap.html)
+    * [Career Pathway](https://www.cyberseek.org/certifications.html)
+
+<p>&nbsp;</p>
 # Miscellaneous Tools:
 (these are basic yet useful resources):
 ## [Cover Your Tracks](https://coveryourtracks.eff.org/)
@@ -74,3 +91,11 @@ The managers most people may be familiar with are the ones built into google chr
 ## What is the difference between KeePass and KeePassXC?
 * KeePass is the original password manager, while KeePassXC is a community-developed fork focused on cross-platform compatibility and additional features.
 * For most use cases and for more convenience I would recommend KeePassXC .
+
+<p>&nbsp;</p>
+# RFID Hacking/Security:
+## * [Exploitation of Radio Frequency Technologies Through the use of Microcontrollers](https://www.iaria.org/conferences2020/fileseLmL20/eLmL_58009.pdf)
+
+## * [A 2018 practical guide to hacking NFC/RFID](https://smartlockpicking.com/slides/Confidence_A_2018_Practical_Guide_To_Hacking_RFID_NFC.pdf)
+
+## * [Step-by-Step Tutorial: How to Copy or Clone Access Cards and Key Fobs](https://www.getkisi.com/blog/how-to-copy-access-cards-and-keyfobs)
