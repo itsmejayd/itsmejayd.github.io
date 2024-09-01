@@ -16,7 +16,7 @@ tags:
   - threat maps
 ---
 
-This page is basically a directory of links.<!--more--> I have a hodgepodge of useful bookmarks accumulated over time in a yet-to-be-well-organized bookmark directory and I wanted to group up a few of them for specific topics (this page being for links related to some basic cybersec/infosec/netsec/opsec stuff). I figured I might as well post it here for my own reference and so others might get use from it! These links are in no particular order, though I’ll try to provide a brief description of what each one is here.
+This page is basically a directory of links.<!--more--> I have a hodgepodge of useful bookmarks accumulated over time in a yet-to-be-well-organized bookmark directory and I wanted to group up a few of them for specific topics (this page being for links related to some basic cybersec/infosec/netsec/opsec stuff). I figured I might as well post it here for my own reference and so others might get use from it! These links are in no particular order, though I’ll probably provide a brief description of each.
 
 I might add a table of contents for these link dump pages at a later date because some of them are pretty long... but for now if anyone is reading this, command/crtl+f will have to suffice.
 
@@ -60,6 +60,9 @@ I might add a table of contents for these link dump pages at a later date becaus
 <p>&nbsp;</p>
 # Miscellaneous Tools:
 (these are basic yet useful resources):
+## [PGP Encryption](https://www.openpgp.org/software/)
+* OpenPGP.org is the official site for the OpenPGP standard, which provides encryption for secure email communication. It offers resources and tools like GnuPG, a widely-used software for encrypting and signing data, along with guidelines for implementing OpenPGP in various applications to enhance privacy and security.
+
 ## [Cover Your Tracks](https://coveryourtracks.eff.org/)
 ![Screenshot of website](/assets/images/cybersecurity_resources_images/coveryourtracks.png)
 * "Cover Your Tracks is two things: a tool for users to understand how unique and identifiable their browser makes them online, and a research project to uncover the tools and techniques of online trackers and test the efficacy of privacy add-ons." ([from their about page](https://coveryourtracks.eff.org/about))
