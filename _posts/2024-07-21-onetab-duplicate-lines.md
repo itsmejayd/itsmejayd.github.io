@@ -35,3 +35,5 @@ I’ve been using OneTab for years, and I have used its import/export feature to
 So, out of my long 4000 line list, how many were duplicates? It turns out nearly half of them! So how to get rid of those? Well I found some online “duplicate finder” tools but they were either looking for words or other tokens which didn’t line up with what I needed. I also did a quick web search and GitHub search for a python script to remove duplicate lines from a list but what I found wasn’t working the way I wanted and didn’t deal with maintaining the format of the empty lines between sub lists of URLs (the groupings of tabs which were “OneTab-ed” together), so I just decided to make my own little solution.
 
 Check out the [readme](https://github.com/itsmejayd/filter-duplicate-lines?tab=readme-ov-file#readme-top) and [other files](https://github.com/itsmejayd/filter-duplicate-lines) in the [GitHub repo](https://github.com/itsmejayd/filter-duplicate-lines.git) for more info, and feel free to [contact me](https://itsmejayd.github.io/about/#-contact-me) with any questions/feedback!
+
+<p>&nbsp;</p>

@@ -47,3 +47,5 @@ So in this example you have a roughly 20% chance of unlocking a given iPhone, so
 I know this is an analysis constrained by certain (not too far fetched!) assumptions, but that number should be jarring! If you’re thinking that you use a 6 digit pin for your phone or that you use alphanumeric for your laptop, still please do take a moment to consider your passcodes/passwords! If it has some basis which you thought was kind of random or secret to you, the statistics here imply it might not be such a secret.
 
 [Use good passwords!!!](https://www.cisa.gov/secure-our-world/use-strong-passwords)
+
+<p>&nbsp;</p>

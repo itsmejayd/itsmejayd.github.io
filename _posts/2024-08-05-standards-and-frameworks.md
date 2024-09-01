@@ -73,3 +73,5 @@ ISO 27002 provides detailed guidance on how the controls could be implemented".(
 * [further details about PCI DSS](https://www.techtarget.com/searchsecurity/definition/PCI-DSS-Payment-Card-Industry-Data-Security-Standard#:~:text=PCI%20DSS%20was%20created%20in,Discover%2C%20JCB%20and%20American%20Express.)
 * [organization's website](https://www.pcisecuritystandards.org/)
 * [PCI DSS Quick Reference Guide](https://listings.pcisecuritystandards.org/documents/PCI_DSS-QRG-v3_2_1.pdf)
+
+<p>&nbsp;</p>
