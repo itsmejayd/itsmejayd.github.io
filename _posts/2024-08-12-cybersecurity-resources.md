@@ -42,7 +42,7 @@ I might add a table of contents for these link dump pages at a later date becaus
 
 <p>&nbsp;</p>
 # Miscellaneous Tools:
-(these are basic yet & useful resources):
+(these are basic yet useful resources):
 ## [Cover Your Tracks](https://coveryourtracks.eff.org/)
 ![Screenshot of website](/assets/images/cybersecurity_resources_images/coveryourtracks.png)
 * "Cover Your Tracks is two things: a tool for users to understand how unique and identifiable their browser makes them online, and a research project to uncover the tools and techniques of online trackers and test the efficacy of privacy add-ons." ([from their about page](https://coveryourtracks.eff.org/about))
