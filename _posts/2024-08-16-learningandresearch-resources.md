@@ -74,7 +74,8 @@ I might add a table of contents for these link dump pages at a later date becaus
 ## [Map of reddit](https://anvaka.github.io/map-of-reddit/?x=18239&y=12514&z=29055.0602231602&v=2)
 (Made by [Andrei Kashcha aka anvaka](Andrei Kashcha))  
 
-![screenshot of website](/assets/images/learningandresearch_images/mapofreddit.png)
+![screenshot of website](/assets/images/learningandresearch_images/mapofreddit.png)  
+
 ![screenshot of example usage](/assets/images/learningandresearch_images/mapex.png)
 
 * An interactive visual map of reddit.
