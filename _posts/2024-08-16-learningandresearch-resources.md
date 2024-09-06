@@ -27,7 +27,7 @@ I might add a table of contents for these link dump pages at a later date becaus
 * Similar to LibGen, the selection is less broad but more legal.
 * OpenStax.org is a nonprofit educational initiative that offers free, peer-reviewed, openly licensed textbooks and resources for college and high school courses.
 
-## Compare textbook prices:
+## Compare textbook prices
 * Websites to compare textbook prices for buying/selling/renting books.
     * [SlugBooks](https://www.slugbooks.com/)
     * [BookScouter](https://bookscouter.com/)
