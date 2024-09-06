@@ -75,7 +75,6 @@ I might add a table of contents for these link dump pages at a later date becaus
 (Made by [Andrei Kashcha aka anvaka](Andrei Kashcha))  
 
 ![screenshot of website](/assets/images/learningandresearch_images/mapofreddit.png)  
-   
 ![screenshot of example usage](/assets/images/learningandresearch_images/mapex.png)
 
 * An interactive visual map of reddit.
