@@ -36,7 +36,8 @@ I might add a table of contents for these link dump pages at a later date becaus
  * Free step-by-step solutions to many textbook problems (seems to be many common college course texts)
 
 ## [spreeder](https://www.spreeder.com/app.php)
-* ***NOTE:*** I love this tool, give it a try on some news article at default settings.
+* ***NOTE:***
+    * Really cool to experience for the first time, give it a try on some article!
     * A little practice goes a long way.
     * Bonus tip: If the reading you want to speed through it already somewhat verbose/filled with extraneous information, consider having your favorite language model do a summary configured as you may. Then 'spreed' the summary to double the skim-rewards (but also the risks)!
     * Somewhat less useful for readings with high syntax/vocab complexity.
