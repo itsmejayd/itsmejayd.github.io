@@ -40,7 +40,7 @@ I might add a table of contents for these link dump pages at a later date becaus
     * Really cool to experience for the first time, give it a try on some article!
     * A little practice goes a long way.
     * Bonus tip: If the reading you want to speed through is already somewhat verbose/filled with extraneous information, consider having your favorite language model do a summary configured as you may. Then 'spreed' the summary to double the skim-rewards (but also the risks)!
-    * Somewhat less useful for readings with high syntax/vocab complexity.
+    * Less useful for readings with high syntax/vocab complexity.
 * Spreeder is a speed-reading tool.
 * Displays text in a rapid, sequential manner.
 * Supposed to enhance comprehension and retention by minimizing subvocalization and reducing eye movement.
