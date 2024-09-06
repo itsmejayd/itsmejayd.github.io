@@ -44,6 +44,14 @@ I might add a table of contents for these link dump pages at a later date becaus
 * Displays text in a rapid, sequential manner.
 * Supposed to enhance comprehension and retention by minimizing subvocalization and reducing eye movement.
 
+## At the risk of being news to nobody:
+* [ChatGPT](https://chatgpt.com/)
+    * Extremely useful, large language model powered, chatbot.
+* [WolframAlpha](https://www.wolframalpha.com/)
+    * WolframAlpha is a computational search engine that provides expert-level answers and solutions by analyzing queries through algorithms and curated data.
+    * Fantastically helpful when doing various maths.
+* Honorable mention: [Wolfram plugin for ChatGPT](https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/)
+
 ## [Anki](https://apps.ankiweb.net/)
 * Anki is an open-source flashcard app.
 * Memorize information efficiently through spaced repetition.
@@ -67,5 +75,13 @@ I might add a table of contents for these link dump pages at a later date becaus
 * Each dot on the map is subreddit. Two dots within the same cluster are usually close to each other if multiple users frequently leave comments on both subreddits.
 * This thing is so cool, shoutout to Andrei.
 * For more info, here is the project's [GitHub repo](https://github.com/anvaka/map-of-reddit?tab=readme-ov-file).
+
+## [YouTube metadata search](https://filmot.com/)
+* "Search within YouTube subtitles and captions"
+* "Enclose phrases in double quotation marks, for example: "radio telescope" Indexing over 960 million captions across 870 million videos and 65 million channels."
+
+## [Our World in Data](https://ourworldindata.org/)
+* OurWorldInData.org is an open-access, data-driven platform that provides research and visualizations on global development trends such as poverty, health, education, and climate change.
+* It combines empirical data with expert analysis to help inform policy, promote understanding, and support decision-making on the world's most pressing issues.
 
 <p>&nbsp;</p>
