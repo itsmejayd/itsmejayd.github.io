@@ -45,18 +45,18 @@ I might add a table of contents for these link dump pages at a later date becaus
     * Bonus tip: If the reading you want to speed through is already somewhat verbose/filled with extraneous information, consider having your favorite language model do a summary configured as you may. Then 'spreed' the summary to double the skim-rewards (but also the risks)!
     * Less useful for readings with high syntax/vocab complexity.
 
-## At the risk of being news to nobody:
+## [Anki](https://apps.ankiweb.net/)
+* Anki is an open-source flashcard app.
+* Memorize information efficiently through spaced repetition.
+* Supports multimedia flashcards and is widely used for language learning, studying, and retaining complex information
+
+## At risk of being news to nobody
 * [ChatGPT](https://chatgpt.com/)
     * Extremely useful, large language model powered, chatbot.
 * [WolframAlpha](https://www.wolframalpha.com/)
     * WolframAlpha is a computational search engine that provides expert-level answers and solutions by analyzing queries through algorithms and curated data.
     * Fantastically helpful when doing various maths.
 * Honorable mention: [Wolfram plugin for ChatGPT](https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/)
-
-## [Anki](https://apps.ankiweb.net/)
-* Anki is an open-source flashcard app.
-* Memorize information efficiently through spaced repetition.
-* Supports multimedia flashcards and is widely used for language learning, studying, and retaining complex information
 
 <p>&nbsp;</p>
 # Research Resources:
