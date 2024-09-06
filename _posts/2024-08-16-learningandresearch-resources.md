@@ -27,7 +27,7 @@ I might add a table of contents for these link dump pages at a later date becaus
 * It operates in a legal grey area, providing access to copyrighted materials, often bypassing traditional paywalls.
 
 ## [openstax](https://openstax.org/)
-* Similar to LibGen, the selection is less broad but more legal.
+* Similar to LibGen, but the selection is less broad but more legal.
 * OpenStax.org is a nonprofit educational initiative that offers free, peer-reviewed, openly licensed textbooks and resources for college and high school courses.
 
 ## Compare textbook prices
@@ -75,7 +75,7 @@ I might add a table of contents for these link dump pages at a later date becaus
 (Made by [Andrei Kashcha aka anvaka](Andrei Kashcha))  
 
 ![screenshot of website](/assets/images/learningandresearch_images/mapofreddit.png)  
-
+   
 ![screenshot of example usage](/assets/images/learningandresearch_images/mapex.png)
 
 * An interactive visual map of reddit.

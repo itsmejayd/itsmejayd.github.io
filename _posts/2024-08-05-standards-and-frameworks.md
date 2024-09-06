@@ -8,7 +8,7 @@ tags:
   - frameworks
   - standards
   - security policy
-  - cyber security
+  - cybersecurity
   - NIST
   - ISO
   - SANS
