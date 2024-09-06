@@ -19,7 +19,7 @@ I might add a table of contents for these link dump pages at a later date becaus
 <p>&nbsp;</p>
 # Textbooks are expensive:
 ## [Library Genesis](https://libgen.is/)
-* **THIS IS A VALUABLE RESOURCE** - Texts from this site can be used to great affect for college courses, technical certification prep, and more!
+* ***THIS IS A VALUABLE RESOURCE*** - Texts from this site can be used to great affect for college courses, technical certification prep, and more!
 * Library Genesis (LibGen) is a free online repository offering millions of scientific articles, books, and academic resources across various disciplines.
 * It operates in a legal grey area, providing access to copyrighted materials, often bypassing traditional paywalls.
 
