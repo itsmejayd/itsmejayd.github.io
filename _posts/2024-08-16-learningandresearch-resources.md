@@ -73,6 +73,7 @@ I might add a table of contents for these link dump pages at a later date becaus
 
 ![screenshot of website](/assets/images/learningandresearch_images/mapofreddit.png)
 ![screenshot of example usage](/assets/images/learningandresearch_resources.md/mapex.png)
+
 * An interactive visual map of reddit.
 * Each dot on the map is subreddit. Two dots within the same cluster are usually close to each other if multiple users frequently leave comments on both subreddits.
 * This thing is so cool, shoutout to Andrei.
