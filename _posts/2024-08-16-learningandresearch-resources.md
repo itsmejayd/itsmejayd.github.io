@@ -9,7 +9,10 @@ tags:
   - studying
   - education
   - research
-
+  - speed reading
+  - open source
+  - nonprofit
+  - study tools
 ---
 
 This page is basically a directory of links.<!--more--> I have a hodgepodge of useful bookmarks accumulated over time in a yet-to-be-well-organized bookmark directory and I wanted to group up a few of them for specific topics (this page being for links related to general learning and research resources). I figured I might as well post it here for my own reference and so others might get use from it! These links are in no particular order, though I’ll try to provide a brief description of what each one is here.
@@ -72,7 +75,7 @@ I might add a table of contents for these link dump pages at a later date becaus
 (Made by [Andrei Kashcha aka anvaka](Andrei Kashcha))  
 
 ![screenshot of website](/assets/images/learningandresearch_images/mapofreddit.png)
-![screenshot of example usage](/assets/images/learningandresearch_resources.md/mapex.png)
+![screenshot of example usage](/assets/images/learningandresearch_images/mapex.png)
 
 * An interactive visual map of reddit.
 * Each dot on the map is subreddit. Two dots within the same cluster are usually close to each other if multiple users frequently leave comments on both subreddits.
