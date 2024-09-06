@@ -60,9 +60,12 @@ I might add a table of contents for these link dump pages at a later date becaus
  * For developers, check out the [Wayback Machine APIs](https://archive.org/help/wayback_api.php)!
 
 ## [Map of reddit](https://anvaka.github.io/map-of-reddit/?x=18239&y=12514&z=29055.0602231602&v=2)
+(Made by [Andrei Kashcha aka anvaka](Andrei Kashcha))
 ![screenshot of website](/assets/images/learningandresearch-resources.md/mapofreddit.png)
 ![screenshot of example usage](/assets/images/learningandresearch-resources.md/mapex.png)
 * An interactive visual map of reddit.
 * Each dot on the map is subreddit. Two dots within the same cluster are usually close to each other if multiple users frequently leave comments on both subreddits.
+* This thing is so cool, shoutout to Andrei.
+* For more info, here is the project's [GitHub repo](https://github.com/anvaka/map-of-reddit?tab=readme-ov-file).
 
 <p>&nbsp;</p>
