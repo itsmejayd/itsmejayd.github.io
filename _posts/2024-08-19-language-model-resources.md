@@ -63,7 +63,7 @@ Screenshot of the chart, though you should really ^go check it out^:
 ![rise of llms chart](/assets/images/lm_resources/rise_of_llms.png)
 
 <p>&nbsp;</p>
-# LMs Impact on Programming Paradigms:
+# LMs' Impact on Programming Paradigms:
 ## [Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35)
 Software 1.0 vs 2.0 program space diagram:
 ![1.0 vs 2.0 program space diagram](/assets/images/lm_resources/soft2.png)
