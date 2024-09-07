@@ -71,6 +71,7 @@ Screenshot of the chart:
     * Software 2.0 :  relies on neural networks where behavior is defined by training on datasets rather than direct programming.
 * This shift simplifies certain tasks, such as visual recognition and speech synthesis, by using neural networks to optimize and learn from large datasets instead of manually coding complex rules.
 * Software 2.0 allows for more efficient and adaptable systems but comes with challenges like interpretability and vulnerability to biases. The article envisions that as Software 2.0 continues to evolve, it will impact various fields and require new development tools and practices tailored to its paradigm.  
+  
 Software 1.0 vs 2.0 program space diagram:
 ![1.0 vs 2.0 program space diagram](/assets/images/lm_resources/soft2.png)
 
