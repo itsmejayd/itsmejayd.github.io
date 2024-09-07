@@ -150,7 +150,7 @@ Software 1.0 vs 2.0 program space diagram:
 * An interesting and useful GitHub.
 * From the README:
 >A repo containing failure cases for ChatGPT and similar models, with the purpose of further study. I think it could be useful for:
-    * comparison with other models
-    * creation of synthetic data for testing and/or training
+>    * comparison with other models
+>    * creation of synthetic data for testing and/or training
 
 <p>&nbsp;</p>
