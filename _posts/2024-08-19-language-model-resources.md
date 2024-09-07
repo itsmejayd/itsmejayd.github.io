@@ -25,9 +25,7 @@ tags:
   - research
   - vectors
   - vector databases
-  -
 ---
-TODO: finish tags
 
 This page is basically a [directory](https://jackyan.com/blog/2023/09/bring-back-the-human-curated-web-directory/) of links.<!--more--> I have a hodgepodge of useful bookmarks accumulated over time in a yet-to-be-well-organized bookmark directory and I wanted to group up a few of them for specific topics (this page being for links related to language model stuff). I figured I might as well post it here for my own reference and so others might get use from it! These links are in no particular order, try to provide a brief description of what each one is here.
 
