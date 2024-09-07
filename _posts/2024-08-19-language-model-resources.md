@@ -90,7 +90,7 @@ Software 1.0 vs 2.0 program space diagram:
 * Includes foundational papers, blog posts, courses, and guides, focusing on the transformative impact of technologies like transformers and latent diffusion models.
 * Starts with overview of these technologies, progresses through technical learning resources and practical guides for building with large language models (LLMs), and concludes with landmark research, notably the 2017 paper "[Attention is All You Need](https://arxiv.org/pdf/1706.03762)" that introduced transformer models.
 
-## [# (Almost) Everything I know about LLMs](https://barryz-architecture-of-agentic-llm.notion.site/Almost-Everything-I-know-about-LLMs-d117ca25d4624199be07e9b0ab356a77#5a7b1625019f42ae9bac58207b4f6200)
+## [(Almost) Everything I know about LLMs](https://barryz-architecture-of-agentic-llm.notion.site/Almost-Everything-I-know-about-LLMs-d117ca25d4624199be07e9b0ab356a77#5a7b1625019f42ae9bac58207b4f6200)
 * This article provides a comprehensive overview of Large Language Models (LLMs), focusing on their components, data flow, and evaluation methods.
 * Emphasizes the importance of prompting techniques and the role of user feedback in improving model performance.
 * Highlights various tools and techniques for fine-tuning and augmenting LLMs, aiming to offer a foundational understanding for those interested in the field.
@@ -99,7 +99,7 @@ Software 1.0 vs 2.0 program space diagram:
 * Very informative and consistently updated. It seems to be updated almost daily!
 
 <p>&nbsp;</p>
-# Research Papers
+# Research Papers:
 ## [“Attention is All You Need” Summary](https://medium.com/@dminhk/attention-is-all-you-need-summary-6f0437e63a91)
 * A summary of the landmark 2017 paper "[Attention Is All You Need](https://arxiv.org/pdf/1706.03762)"
 
