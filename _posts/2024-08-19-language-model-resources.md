@@ -33,7 +33,7 @@ I might add a table of contents for these link dump pages at a later date becaus
 
 <p>&nbsp;</p>
 # Intro to Language Models (LMs):
-(Two fantastic and comprehensive articles:)
+Two fantastic and comprehensive articles:
 
 ## [What We Know About LLMs (Primer)](https://willthompson.name/what-we-know-about-llms-primer#block-85b3ec4df96e4c878c1a6db6357269a2)
 * Table of contents:
