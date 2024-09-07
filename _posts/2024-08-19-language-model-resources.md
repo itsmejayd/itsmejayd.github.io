@@ -111,7 +111,7 @@ Software 1.0 vs 2.0 program space diagram:
 <p>&nbsp;</p>
 # Deeper Technical Understanding:
 ## [What Is ChatGPT Doing... and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
-* This article provides a high-level overview of how transformer based large language models generate human-like text by predicting the next word based on probabilities derived from vast amounts of text data.
+* This article from Stephen Wolfram provides a high-level overview of how transformer based large language models generate human-like text by predicting the next word based on probabilities derived from vast amounts of text data.
 * Explains the importance of randomness in producing creative and varied outputs and touches on the underlying neural network architecture and training process.
 * Explains concepts like probability-based text generation, neural networks, and training processes in a way that is accessible to readers with a basic understanding of AI and machine learning.
 
