@@ -77,7 +77,7 @@ Software 1.0 vs 2.0 program space diagram:
 * Final shoutout to Andrej for this fantastic 1 hour video [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 
 <p>&nbsp;</p>
-# Deeper into the LM Landscape
+# Deeper into the LM Landscape:
 ## [State of AI Report 2023](https://nathanbenaich.substack.com/p/welcome-to-the-state-of-ai-report)
 * Nathan Beniach's annual "State of AI" report is a comprehensive analysis of the current landscape in artificial intelligence.
 * Covers key advancements, industry trends, and emerging technologies in AI.
