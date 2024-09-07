@@ -18,8 +18,14 @@ tags:
   - neural network
   - computer science
   - programming
+  - nonprofit
   - open source
   - AI alignment
+  - transformers
+  - research
+  - vectors
+  - vector databases
+  -
 ---
 TODO: finish tags
 
@@ -38,6 +44,25 @@ I might add a table of contents for these link dump pages at a later date becaus
 ## [Getting Started with Large Language Models: Key Things to Know](https://flyte.org/blog/getting-started-with-large-language-models-key-things-to-know)
 * Table of contents:
 ![primer table of contents](/assets/images/lm_resources/lm_keythings.png)
+
+<p>&nbsp;</p>
+# Models, So Many Models:
+## [The Rise and Rise of A.I. Large Language Models](https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt/)
+Screenshot of the chart, though you should really ^go check it out^:
+![rise of llms chart](/assets/images/lm_resources/rise_of_llms.png)
+* Very cool chart visualizing data representing the explosion of various language models over the last 4 years or so.
+* An article below the chart outlines a very interesting data story of the models developing over time.
+
+## [LMSYS Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
+* This is a crowdsourced open platform for LLM evals, and rankings based on performance.
+
+## [LLM Explorer](https://llm.extractum.io/)
+* Really nicely organized lists, rankings, and categorizations of LLMs.
+
+## [AI / ML / LLM / Transformer Models Timeline and List](https://ai.v-gar.de/ml/transformer/timeline/)
+* "This is a collection of important papers in the area of Large Language Models and Transformer Models. It focuses on recent development, especially from mid-2022 onwards"
+* Really cool graph/timeline!
+![rise of llms chart](/assets/images/lm_resources/rise_of_llms.png)
 
 <p>&nbsp;</p>
 # LMs Impact on Programming Paradigms:
@@ -60,6 +85,7 @@ Software 1.0 vs 2.0 program space diagram:
 * Covers key advancements, industry trends, and emerging technologies in AI.
 * Insights on AI research, market dynamics, policy implications, and major players in the field.
 * Note: If you want to try to somehow keep up with the crazy pace of the LM/AI space, Nathan also puts out a [monthly report](https://nathanbenaich.substack.com/) on his substack.
+    * Similarly, to keep track of the "bleeding edge", you might want to check out [bleeding edge](https://bleedingedge.ai/) for "a feed of noteworthy developments in AI".
 
 ## [AI Canon](https://a16z.com/ai-canon/)
 * This article provides a curated collection of resources for understanding modern AI.
@@ -110,6 +136,10 @@ Software 1.0 vs 2.0 program space diagram:
 
 <p>&nbsp;</p>
 # Other Random LM Resources:
+## [bleeding edge](https://bleedingedge.ai/)
+* "a feed of noteworthy developments in AI"
+* This site has very cool/clean interactive timeline for said developments.
+
 ## [LAION (Large-scale Artificial Intelligence Open Network)](https://laion.ai/)
 * LAION is a nonprofit, open source organization providing datasets, tools and models for machine learning research.
 * Provides large, useful datasets!
