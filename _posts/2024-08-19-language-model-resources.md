@@ -58,7 +58,8 @@ Screenshot of the chart:
 
 ## [AI / ML / LLM / Transformer Models Timeline and List](https://ai.v-gar.de/ml/transformer/timeline/)
 * "This is a collection of important papers in the area of Large Language Models and Transformer Models. It focuses on recent development, especially from mid-2022 onwards"
-* Really cool graph/timeline:
+* Cool graph/timeline
+* The image is huge so it's hard to show in screenshot, but:
 ![lm timeline graph](/assets/images/lm_resources/lm_graph.png)
 
 <p>&nbsp;</p>
