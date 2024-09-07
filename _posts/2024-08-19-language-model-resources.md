@@ -64,12 +64,13 @@ Screenshot of the chart:
 <p>&nbsp;</p>
 # LMs' Impact on Programming Paradigms:
 ## [Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35)
-* This sensational article written by Andrej Karpathy in 2017 gets its own entire section on this blog post because of how transformative/important the concepts in it are. Some won't understand all of it, but all will understand some of it. Worth a read. My summary won't do it justice, but here:
+* Pivotal article written by Andrej Karpathy in 2017.
+* My summary won't do it justice, but here:
 * The article argues that neural networks signify a transformative shift from traditional "Software 1.0" to "Software 2.0."
     * Software 1.0 :  Programmers write explicit instructions in code.
     * Software 2.0 :  relies on neural networks where behavior is defined by training on datasets rather than direct programming.
 * This shift simplifies certain tasks, such as visual recognition and speech synthesis, by using neural networks to optimize and learn from large datasets instead of manually coding complex rules.
-* Software 2.0 allows for more efficient and adaptable systems but comes with challenges like interpretability and vulnerability to biases. The article envisions that as Software 2.0 continues to evolve, it will impact various fields and require new development tools and practices tailored to its paradigm.
+* Software 2.0 allows for more efficient and adaptable systems but comes with challenges like interpretability and vulnerability to biases. The article envisions that as Software 2.0 continues to evolve, it will impact various fields and require new development tools and practices tailored to its paradigm.  
 Software 1.0 vs 2.0 program space diagram:
 ![1.0 vs 2.0 program space diagram](/assets/images/lm_resources/soft2.png)
 
