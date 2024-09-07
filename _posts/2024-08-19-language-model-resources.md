@@ -46,7 +46,7 @@ Two fantastic and comprehensive articles:
 <p>&nbsp;</p>
 # Models, So Many Models:
 ## [The Rise and Rise of A.I. Large Language Models](https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt/)
-Screenshot of the chart, though you should really ^go check it out^:
+Screenshot of the chart:
 ![rise of llms chart](/assets/images/lm_resources/rise_of_llms.png)
 * Very cool chart visualizing data representing the explosion of various language models over the last 4 years or so.
 * An article below the chart outlines a very interesting data story of the models developing over time.
@@ -59,8 +59,8 @@ Screenshot of the chart, though you should really ^go check it out^:
 
 ## [AI / ML / LLM / Transformer Models Timeline and List](https://ai.v-gar.de/ml/transformer/timeline/)
 * "This is a collection of important papers in the area of Large Language Models and Transformer Models. It focuses on recent development, especially from mid-2022 onwards"
-* Really cool graph/timeline!
-![rise of llms chart](/assets/images/lm_resources/rise_of_llms.png)
+* Really cool graph/timeline:
+![lm timeline graph](/assets/images/lm_resources/lm_timeline_graph.png)
 
 <p>&nbsp;</p>
 # LMs' Impact on Programming Paradigms:
