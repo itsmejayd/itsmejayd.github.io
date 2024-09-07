@@ -36,15 +36,10 @@ I might add a table of contents for these link dump pages at a later date becaus
 Two fantastic and comprehensive articles:
 
 ## [What We Know About LLMs (Primer)](https://willthompson.name/what-we-know-about-llms-primer#block-85b3ec4df96e4c878c1a6db6357269a2)
-    * Table of contents:  
-
+Table of contents:  
 ![primer table of contents](/assets/images/lm_resources/lm_primer.png)
-<p align="center">
-    <img src="...">
-p>
 
 ## [Getting Started with Large Language Models: Key Things to Know](https://flyte.org/blog/getting-started-with-large-language-models-key-things-to-know)
-
 ![primer table of contents](/assets/images/lm_resources/lm_keythings.png)
 
 <p>&nbsp;</p>
