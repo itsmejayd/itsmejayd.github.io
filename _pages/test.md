@@ -1,8 +1,7 @@
 ---
-#layout: page
+layout: page
 title: "email page"
 permalink: /email
-layout: post
 author_profile: false
 ---
 
