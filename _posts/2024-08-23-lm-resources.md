@@ -81,10 +81,8 @@ Screenshot of the chart:
 Software 1.0 vs 2.0 program space diagram:
 ![1.0 vs 2.0 program space diagram](/assets/images/lm_resources/soft2.png)
 
-* Final shoutout to Andrej for this fantastic "Intro to Large Language Models"
-
+* Final shoutout to Andrej for this fantastic "Intro to Large Language Models" video:
 {% include video id="zjkBMFhNj_g" provider="youtube" %}
-{: .full}
 
 <p>&nbsp;</p>
 ## Deeper into the LM Landscape:
