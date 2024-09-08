@@ -29,17 +29,20 @@ I might add a table of contents for these link dump pages at a later date becaus
 
 ## [Think your phone's passcode is hard to crack? Think again!](https://itsmejayd.github.io/blog/passcode-problems/)
 
-## [Don't Run Out of Juice: How to Save Battery Life on Your iPhone](https://www.pcmag.com/how-to/how-to-save-battery-life-on-your-iphone)
+### [Don't Run Out of Juice: How to Save Battery Life on Your iPhone](https://www.pcmag.com/how-to/how-to-save-battery-life-on-your-iphone)
 
-## [How Much Free Space Should You Leave on Your iPhone?](https://www.howtogeek.com/325537/how-much-free-space-should-you-have-on-your-iphone/)
+####  [How Much Free Space Should You Leave on Your iPhone?](https://www.howtogeek.com/325537/how-much-free-space-should-you-have-on-your-iphone/)
 
 ## [iPhone System Services Privacy Settings (iOS 17)](https://hifutureself.com/ios-location-system-services-settings)
-
-## [How to Turn Off Location Services and Stop Your iPhone Apps From Tracking You](https://www.pcmag.com/how-to/how-to-turn-off-location-services-on-ios-devices)
-
-## [How to schedule a text message on your iPhone in 2 ways](https://www.businessinsider.com/guides/tech/schedule-text-message-iphone)
+### [How to Turn Off Location Services and Stop Your iPhone Apps From Tracking You](https://www.pcmag.com/how-to/how-to-turn-off-location-services-on-ios-devices)
+#### [How to schedule a text message on your iPhone in 2 ways](https://www.businessinsider.com/guides/tech/schedule-text-message-iphone)
 
 ## [iOS Wallpapers](https://photos.google.com/share/AF1QipNi8VN2pw2Ya_xCV8eFgzEZmiXDy1-GwhXbqFtvXoH3HypF10as9puV8FdoVZpOZA?pli=1&key=WkZjQTIxQTM5a01oZkNUYTE2ZllKTVJKZk1CMTR3)
+* [iOS Wallpapers](https://photos.google.com/share/AF1QipNi8VN2pw2Ya_xCV8eFgzEZmiXDy1-GwhXbqFtvXoH3HypF10as9puV8FdoVZpOZA?pli=1&key=WkZjQTIxQTM5a01oZkNUYTE2ZllKTVJKZk1CMTR3)
+### [iOS Wallpapers](https://photos.google.com/share/AF1QipNi8VN2pw2Ya_xCV8eFgzEZmiXDy1-GwhXbqFtvXoH3HypF10as9puV8FdoVZpOZA?pli=1&key=WkZjQTIxQTM5a01oZkNUYTE2ZllKTVJKZk1CMTR3)
+* [iOS Wallpapers](https://photos.google.com/share/AF1QipNi8VN2pw2Ya_xCV8eFgzEZmiXDy1-GwhXbqFtvXoH3HypF10as9puV8FdoVZpOZA?pli=1&key=WkZjQTIxQTM5a01oZkNUYTE2ZllKTVJKZk1CMTR3)
+
+
 
 ## For iOS Shortcuts/automations:
 * [Complete List of iOS URL Schemes for Apple Settings (Always-Updated)](https://medium.com/@contact.jmeyers/complete-list-of-ios-url-schemes-for-apple-settings-always-updated-20871139d72f)
