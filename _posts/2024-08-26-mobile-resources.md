@@ -25,6 +25,8 @@ I might add a table of contents for these link dump pages at a later date becaus
 <p>&nbsp;</p>
 # iOS:
 
+## [Think your phone's passcode is hard to crack? Think again!](https://itsmejayd.github.io/blog/passcode-problems/)
+
 ## [Don't Run Out of Juice: How to Save Battery Life on Your iPhone](https://www.pcmag.com/how-to/how-to-save-battery-life-on-your-iphone)
 
 ## [How Much Free Space Should You Leave on Your iPhone?](https://www.howtogeek.com/325537/how-much-free-space-should-you-have-on-your-iphone/)
@@ -46,6 +48,7 @@ I might add a table of contents for these link dump pages at a later date becaus
 This post is pretty "iOS-centric" since I have been mainly using an iPhone for years, but some of the iOS related links are largely overlapping or compatible with applicable info for Android and other mobile devices.
 
 ## Applicable reposts from iOS section above:
+* ## [Think your phone's passcode is hard to crack? Think again!](https://itsmejayd.github.io/blog/passcode-problems/)
 * [Don't Run Out of Juice: How to Save Battery Life on Your iPhone](https://www.pcmag.com/how-to/how-to-save-battery-life-on-your-iphone)
 * [How Much Free Space Should You Leave on Your iPhone?](https://www.howtogeek.com/325537/how-much-free-space-should-you-have-on-your-iphone/)
 
