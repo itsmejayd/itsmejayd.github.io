@@ -2,9 +2,7 @@
 #layout: page
 title: "email page"
 permalink: /email
-author_profile: false
-classes: wide
----
+author_profile: false---
 
 ```
 #container {
