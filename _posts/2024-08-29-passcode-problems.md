@@ -6,7 +6,8 @@ categories:
 tags:
   - statistics
   - security
-  - data vizualization
+  - data visualization
+classes: wide
 ---
 
 I recently came across an [instagram post](https://www.instagram.com/p/C6rb2_kvkHF/?igsh=MWVsZTMzMTh1eGJpaw%3D%3D&img_index=1) with this image: <!--more-->
