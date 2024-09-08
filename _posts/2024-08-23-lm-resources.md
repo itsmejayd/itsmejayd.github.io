@@ -84,6 +84,7 @@ Software 1.0 vs 2.0 program space diagram:
 * Final shoutout to Andrej for this fantastic 1 hour video [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 
 {% include video id="zjkBMFhNj_g" provider="youtube" %}
+{: .full}
 
 <p>&nbsp;</p>
 ## Deeper into the LM Landscape:
