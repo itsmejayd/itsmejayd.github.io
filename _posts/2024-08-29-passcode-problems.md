@@ -23,11 +23,12 @@ Many people have a 4 digit pin which gives access to their iPhone, along with Fa
 
 So I was thinking about these pin number statistics and I was reminded of a news story from a while back, where there was a string of phone thefts at some music festivals. I remember thinking at the time, what a silly theft. I thought the value proposition was terrible because I assumed the thieves were going to try to sell the phones for parts at a low profit. But if they were able to unlock some of them, the value proposition becomes much larger. After seeing these statistics I got to thinking a new question which I think I can now estimate a decent answer to:
 
-If you stole a backpack full of iPhones, how many could you expect to be able to unlock? (assuming they all have 4 digit pin passcodes which are randomly distributed amongst the aforementioned data)
+*If you stole a backpack full of iPhones, how many could you expect to be able to unlock?*
+(assuming they all have 4 digit pin passcodes which are randomly distributed amongst the aforementioned data)
 
 Note: I’m ignoring android smartphones here because they are much less common in my demographic, and in the thefts I’m referring to. Also I know iPhones default to 5 guess attempts before a lockout, so it's simpler for me to have consistent assumptions.
 
-Now to answer the question:
+***Now, to answer the question***:
 
 For each iPhone, you get 5 guesses at the passcode before the first lockout.
 
@@ -43,7 +44,7 @@ From the data given in the [DataGenics article](http://www.datagenetics.com/blog
 
 If you add up those frequencies you get 20.552%.
 
-So in this example you have a roughly 20% chance of unlocking a given iPhone, so for about every 5 iPhones, you could expect to unlock 1!
+Given my assumptions, **you'd have a roughly 20% chance of unlocking a given iPhone, so for about every 5 iPhones, you'd expect to unlock 1!**
 
 I know this is an analysis constrained by certain (not too far fetched!) assumptions, but that number should be jarring! If you’re thinking that you use a 6 digit pin for your phone or that you use alphanumeric for your laptop, still please do take a moment to consider your passcodes/passwords! If it has some basis which you thought was kind of random or secret to you, the statistics here imply it might not be such a secret.
 
