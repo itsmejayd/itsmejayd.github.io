@@ -1,5 +1,5 @@
 ---
-layout: page
+#layout: page
 title: "email page"
 permalink: /email
 author_profile: false
