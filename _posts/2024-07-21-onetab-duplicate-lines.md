@@ -29,7 +29,6 @@ First things first, to save you some time: if you don’t really care about the 
 
 Flask web app:
 ![Screenshot of Flask web app being run in browser](/assets/images/flask_web_app.png)
-{: .full}
 
 I’ve been using OneTab for years, and I have used its import/export feature to sync up URL lists from different browsers and devices. Recently I was looking for some stuff which I knew I saved in there, but I was having no luck with command+f and I decided I would just manually scan through to find it. Then I saw the scroll bar. The list was huge. I copy-pasted it into a .txt file in VSC and it was nearly 4,000 lines! I started poking around and realized there were A LOT of duplicate links, and I mean like I saw more than 5 instances of link groups with 20-30 links duplicated. This was a result of my own lazy mismanagement, syncing exports/imports in a lazy but “safe” way which would retain everything from both.
 
