@@ -85,7 +85,8 @@ author:
             interesting... and whatever else 🙂. 
             I might post a lot, I might post a little 🤷‍♂️."
   location  : "Philadelphia area"
-  email     : "josephdwyer20@gmail.com"
+#  email     : "josephdwyer20@gmail.com"
+  email  : "https://itsmejayd.github.io/email"
 
   links:
     # - label: "Website"
@@ -120,7 +121,7 @@ footer:
       url: "https://twitter.com/jdlately"
     - label: "Email"
       icon: "fa-regular fa-envelope"
-      url: josephdwyer20@gmail.com
+      url: "https://itsmejayd.github.io/email/"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
