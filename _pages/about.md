@@ -26,6 +26,6 @@ The site is built using [GitHub Pages](https://pages.github.com/) and many of th
 - [picoCTF](https://play.picoctf.org/users/jaydxp)
 
 ### // contact me:
-- Email:  josephdwyer20@gmail.com
+- Email: ``` josephdwyer20@gmail.com ```
 - [Twitter](https://twitter.com/jdlately) (my dms are open)
 - [OpenPGP public key](https://keys.openpgp.org/search?q=4752E97C450AE7867085E26DE02A81EE15F6AF58) (for encrypted communications, only I have the private key)
