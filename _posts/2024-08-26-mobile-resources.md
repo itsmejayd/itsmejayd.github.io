@@ -1,52 +1,44 @@
 ---
-title: "Language Model Resources"
+title: "Smartphone Resources"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
   - Resources Directory
 tags:
-  - language models
-  - LLMs
-  - LMs
-  - ChatGPT
-  - Artificial Intelligence
-  - AI
-  - machine learning
-  - ML
-  - deep learning
-  - RLHF
-  - neural network
-  - computer science
-  - programming
-  - nonprofit
-  - open source
-  - AI alignment
-  - transformers
-  - research
-  - vectors
-  - vector databases
+  - smartphone
+  - mobile device
+  - iOS
+  - Automation
+  - Shortcuts
+  - Android
+  - iPhone
+  -
 ---
 
-This page is basically a [directory](https://jackyan.com/blog/2023/09/bring-back-the-human-curated-web-directory/) of links.<!--more--> I have a hodgepodge of useful bookmarks accumulated over time in a yet-to-be-well-organized bookmark directory and I wanted to group up a few of them for specific topics (this page being for links related to language model stuff). I figured I might as well post it here for my own reference and so others might get use from it! These links are not necessarily in any particular order, but I will try to provide a brief description each.
+This page is basically a [directory](https://jackyan.com/blog/2023/09/bring-back-the-human-curated-web-directory/) of links.<!--more--> I have a hodgepodge of useful bookmarks accumulated over time in a yet-to-be-well-organized bookmark directory and I wanted to group up a few of them for specific topics (this page being for links related to smartphone stuff). I figured I might as well post it here for my own reference and so others might get use from it! These links are not necessarily in any particular order, but I will try to provide a brief description each.
 
 I might add a table of contents for these link dump pages at a later date because some of them are pretty long... but for now command/crtl+f will have to suffice.
 
----
----
-
 <p>&nbsp;</p>
-# Intro to Language Models (LMs):
-Two fantastic and comprehensive articles:
+# iOS:
 
-## [What We Know About LLMs (Primer)](https://willthompson.name/what-we-know-about-llms-primer#block-85b3ec4df96e4c878c1a6db6357269a2)
-Table of contents:  
-![primer table of contents](/assets/images/lm_resources/lm_primer.png)
+## [Don't Run Out of Juice: How to Save Battery Life on Your iPhone](https://www.pcmag.com/how-to/how-to-save-battery-life-on-your-iphone)
 
-## [Getting Started with Large Language Models: Key Things to Know](https://flyte.org/blog/getting-started-with-large-language-models-key-things-to-know)
-![primer table of contents](/assets/images/lm_resources/lm_keythings.png)
+## [How Much Free Space Should You Leave on Your iPhone?](https://www.howtogeek.com/325537/how-much-free-space-should-you-have-on-your-iphone/)
 
-<p>&nbsp;</p>
-# Models, So Many Models:
+## [iPhone System Services Privacy Settings (iOS 17)](https://hifutureself.com/ios-location-system-services-settings)
+
+## [How to Turn Off Location Services and Stop Your iPhone Apps From Tracking You](https://www.pcmag.com/how-to/how-to-turn-off-location-services-on-ios-devices)
+
+## [How to schedule a text message on your iPhone in 2 ways](https://www.businessinsider.com/guides/tech/schedule-text-message-iphone)
+
+## [iOS Wallpapers](https://photos.google.com/share/AF1QipNi8VN2pw2Ya_xCV8eFgzEZmiXDy1-GwhXbqFtvXoH3HypF10as9puV8FdoVZpOZA?pli=1&key=WkZjQTIxQTM5a01oZkNUYTE2ZllKTVJKZk1CMTR3)
+
+## For iOS Shortcuts/automations:
+* [Complete List of iOS URL Schemes for Apple Settings (Always-Updated)](https://medium.com/@contact.jmeyers/complete-list-of-ios-url-schemes-for-apple-settings-always-updated-20871139d72f)
+* This question: [Complete documentation of the iOS Settings app's URL scheme](https://apple.stackexchange.com/questions/42915/complete-documentation-of-the-ios-settings-apps-url-scheme) linked me to this solution: [Settings URLs](https://github.com/FifiTheBulldog/ios-settings-urls/blob/master/settings-urls.md)
+
+
 ## [The Rise and Rise of A.I. Large Language Models](https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt/)
 Screenshot of the chart:
 ![rise of llms chart](/assets/images/lm_resources/rise_of_llms.png)
