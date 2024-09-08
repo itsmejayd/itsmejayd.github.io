@@ -25,6 +25,7 @@ tags:
   - research
   - vectors
   - vector databases
+classes: wide
 toc: true
 toc_sticky: true
 ---
