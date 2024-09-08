@@ -121,7 +121,7 @@ footer:
       url: "https://twitter.com/jdlately"
     - label: "Email"
       icon: "fa-regular fa-envelope"
-      url: "https://itsmejayd.github.io/email/"
+      url: "https://itsmejayd.github.io/email"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
