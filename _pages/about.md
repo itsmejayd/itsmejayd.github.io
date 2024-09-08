@@ -3,8 +3,9 @@ title: "About"
 permalink: /about
 #layout: page
 #font:
-toc: true
-toc_sticky: true
+#toc: true
+#toc_sticky: true
+classes: wide
 ---
 ⚠️  this website is under construction
 
