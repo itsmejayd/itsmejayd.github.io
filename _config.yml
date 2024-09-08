@@ -36,10 +36,11 @@ github_username: itsmejayd
 twitter_username: jdlately
 minimal_mistakes_skin: dark #default
 search: true
+search_full_content: true
 
 lunr:
   search_within_pages: true
-  search_full_content: true
+
 
 
 atom_feed:

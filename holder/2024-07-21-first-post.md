@@ -7,6 +7,7 @@ categories:
 tags:
   - testtag
   - readability
+search: false
 ---
 
 test
