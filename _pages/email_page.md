@@ -7,7 +7,6 @@ author_profile: false
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 ```
 josephdwyer20@gmail.com
