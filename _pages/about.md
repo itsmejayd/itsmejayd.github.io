@@ -3,7 +3,6 @@ title: "About"
 permalink: /about
 #layout: page
 #font:
-classes: wide
 toc: true
 toc_sticky: true
 ---
