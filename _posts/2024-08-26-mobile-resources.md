@@ -12,8 +12,8 @@ tags:
   - Shortcuts
   - Android
   - iPhone
-classes: wide
 toc: true
+toc_sticky: true
 
 ---
 
