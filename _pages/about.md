@@ -8,6 +8,7 @@ permalink: /about
 classes: wide
 ---
 ⚠️  this website is under construction
+{: .notice--warning}
 
 ### // website build info:
 Here is my [GitHub repo](https://github.com/itsmejayd/itsmejayd.github.io) repo for this website.
