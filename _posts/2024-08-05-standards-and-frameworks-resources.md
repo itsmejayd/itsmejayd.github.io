@@ -14,33 +14,33 @@ tags:
   - SANS
   - PCI DSS
   - ITIL
+toc: true
+toc_sticky: true
 ---
 
-This page is basically a [directory](https://jackyan.com/blog/2023/09/bring-back-the-human-curated-web-directory/) of links.<!--more--> I have a hodgepodge of useful bookmarks accumulated over time in a yet-to-be-well-organized bookmark directory and I wanted to group up a few of them for specific topics (this page being for links related to standards/frameworks/policy stuff). I figured I might as well post it here for my own reference and so others might get use from it! These links are in no particular order, though I’ll try to provide a brief description of what each one is here.
-
-I might add a table of contents for these link dump pages at a later date because some of them are pretty long... but for now command/crtl+f will have to suffice.
+This page is basically a [directory](https://jackyan.com/blog/2023/09/bring-back-the-human-curated-web-directory/) of links.<!--more--> I have a hodgepodge of useful bookmarks accumulated over time in a yet-to-be-well-organized bookmark directory and I wanted to group up a few of them for specific topics (this page being for links related to standards/frameworks/policy stuff). I figured I might as well post it here for my own reference and so others might get use from it! These links are not necessarily in any particular order, though I’ll try to provide a brief description of each.
 
 ---
 ---
 
 <p>&nbsp;</p>
-# NIST (National Institute of Standards and Technology):
-## What is NIST?
+## NIST (National Institute of Standards and Technology):
+### What is NIST?
 * It's a U.S. federal agency that develops and promotes measurement standards, guidelines, and technologies to enhance innovation, industrial competitiveness, and public safety across various sectors, including cybersecurity, manufacturing, and technology.
 
-## [NIST Frameworks](https://www.nist.gov/frameworks)
+### [NIST Frameworks](https://www.nist.gov/frameworks)
 * These frameworks provide guidance for organizations to address cybersecurity, privacy, AI, and other risks through various frameworks, including the Cybersecurity Framework and Risk Management Framework.
 
-## [NIST CSF (Cybersecurity Framework)](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf)
+### [NIST CSF (Cybersecurity Framework)](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf)
 * CSF is a set of guidelines designed to help organizations of all types manage and reduce cybersecurity risks through improved governance, risk management, and communication strategies.
 * [further summary details on the CSF](https://www.connectwise.com/cybersecurity-center/glossary/nist-cybersecurity-framework)
 
 <p>&nbsp;</p>
-# ISO (International Organization for Standardization):
-## What is ISO?
+## ISO (International Organization for Standardization):
+### What is ISO?
 * It's a global body that develops and publishes consensus-based standards to ensure interoperability, safety, and quality across diverse industries and sectors.
 
-## ISO 27001 (and ISO 27002)
+### ISO 27001 (and ISO 27002)
 * ISO 27001 is an international standard for information security management systems (ISMS) that provides a systematic approach to managing sensitive company information, ensuring its confidentiality, integrity, and availability.
 
 * 27001 vs 27002: "the controls in ISO 27001 and ISO 27002 are exactly the same; the only difference is that
@@ -53,25 +53,25 @@ ISO 27002 provides detailed guidance on how the controls could be implemented".(
 * [tool to convert a control from the 2013 edition to corresponding control in the 2022 edition](https://advisera.com/insight/iso-27001-2013-to-iso-27001-2022-conversion-tool/)
 
 <p>&nbsp;</p>
-# SANS Institute:
-## What is The SANS Institute?
+## SANS Institute:
+### What is The SANS Institute?
 * It's a leading organization providing information security training, certification, and research to individuals and organizations. "SANS" stands for SysAdmin, Audit, Network, and Security.
 * [SANS website](https://www.sans.org/)
 
-## [SANS Security Policy Templates](https://www.sans.org/information-security-policy/?per-page=100)
+### [SANS Security Policy Templates](https://www.sans.org/information-security-policy/?per-page=100)
 * Do you need to create/audit a security policy like an acceptable use policy or an incident response plan? This is a great resource for you!
 
 <p>&nbsp;</p>
-# ITIL (Information Technology Infrastructure Library):
-## What is ITIL?
+## ITIL (Information Technology Infrastructure Library):
+### What is ITIL?
 * It's a framework of best practices for IT service management that provides guidelines for aligning IT services with business strategy.
 
-## [A guide to ITIL and its place in modern ITSM (IT Service Management)](https://www.atlassian.com/itsm/itil)
+### [A guide to ITIL and its place in modern ITSM (IT Service Management)](https://www.atlassian.com/itsm/itil)
 * There is also a lot of other ITSM info found at the above link.
 
 <p>&nbsp;</p>
-# PCI DSS (Payment Card Industry Data Security Standard):
-## What is PCI DSS?
+## PCI DSS (Payment Card Industry Data Security Standard):
+### What is PCI DSS?
 * It's a set of security standards designed to protect cardholder data and ensure secure payment processing by setting requirements for data security and risk management.
 * [further details about PCI DSS](https://www.techtarget.com/searchsecurity/definition/PCI-DSS-Payment-Card-Industry-Data-Security-Standard#:~:text=PCI%20DSS%20was%20created%20in,Discover%2C%20JCB%20and%20American%20Express.)
 * [organization's website](https://www.pcisecuritystandards.org/)
