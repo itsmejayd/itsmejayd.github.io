@@ -5,6 +5,12 @@ permalink: /email
 author_profile: false
 ---
 
+```
+function test() {
+  console.log("This code will have a copy button to the right of it");
+}
+```
+
 <p>&nbsp;</p>
 
 ```
