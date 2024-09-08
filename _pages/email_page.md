@@ -11,5 +11,3 @@ author_profile: false
 ```
 josephdwyer20@gmail.com
 ```
-VS
-```josephdwyer20@gmail.com```

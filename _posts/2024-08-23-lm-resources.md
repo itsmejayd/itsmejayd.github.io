@@ -48,7 +48,7 @@ Table of contents:
 ![primer table of contents](/assets/images/lm_resources/lm_keythings.png)
 
 <p>&nbsp;</p>
-##Models, So Many Models:
+## Models, So Many Models:
 ### [The Rise and Rise of A.I. Large Language Models](https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt/)
 Screenshot of the chart:
 ![rise of llms chart](/assets/images/lm_resources/rise_of_llms.png)
