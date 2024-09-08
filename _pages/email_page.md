@@ -7,6 +7,14 @@ classes: wide
 ---
 
 ```
+#container {
+  float: left;
+  margin: 0 -240px 0 0;
+  width: 100%;
+}
+```
+
+```
 function test() {
   console.log("This code will have a copy button to the right of it");
 }
