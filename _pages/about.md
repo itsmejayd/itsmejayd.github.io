@@ -7,7 +7,8 @@ permalink: /about
 #toc_sticky: true
 classes: wide
 ---
-⚠️  this website is under construction
+⚠️  this website is under construction  
+(mostly finished now, but some development is ongoing)
 {: .notice--warning}
 
 ### // website build info:
