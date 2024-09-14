@@ -73,7 +73,7 @@ ISO 27002 provides detailed guidance on how the controls could be implemented".(
 (Free download found at this link, you just need to make a free account when prompted.)
 * Fantastic resources if you want to build and/or improve a Security Awareness Program.
     * Of course, SANS (a for-profit company) want's to sell you courses, certifications, and training services... Nonetheless I think this is a great free resource (I have no affiliation with SANS).    
-
+    
 * The kit includes:
     * Example program charter and plan.
     * Customizable slide deck for presenting to stakeholders, a matrix tool to identify ways to measure security behaviors, culture, and impact of the program.
