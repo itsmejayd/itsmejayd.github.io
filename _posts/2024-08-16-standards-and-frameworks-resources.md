@@ -43,7 +43,7 @@ Note: For general infosec/cybersec resources, check out [this post](https://itsm
 
 <p>&nbsp;</p>
 ## ISO:
-(International Organization for Standardization)
+(International Organization for Standardization)    
 
 ### What is ISO?
 * It's a global body that develops and publishes consensus-based standards to ensure interoperability, safety, and quality across diverse industries and sectors.
@@ -85,7 +85,7 @@ ISO 27002 provides detailed guidance on how the controls could be implemented".(
 
 <p>&nbsp;</p>
 ## ITIL:
-(Information Technology Infrastructure Library)
+(Information Technology Infrastructure Library)    
 
 ### What is ITIL?
 * It's a framework of best practices for IT service management that provides guidelines for aligning IT services with business strategy.
@@ -95,7 +95,7 @@ ISO 27002 provides detailed guidance on how the controls could be implemented".(
 
 <p>&nbsp;</p>
 ## PCI DSS:
-(Payment Card Industry Data Security Standard)
+(Payment Card Industry Data Security Standard)    
 
 ### What is PCI DSS?
 * It's a set of security standards designed to protect cardholder data and ensure secure payment processing by setting requirements for data security and risk management.
