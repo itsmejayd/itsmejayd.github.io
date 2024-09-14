@@ -9,6 +9,7 @@ tags:
   - standards
   - security policy
   - cybersecurity
+  - information security
   - NIST
   - ISO
   - SANS
@@ -22,10 +23,9 @@ This page is basically a [directory](https://jackyan.com/blog/2023/09/bring-back
 
 ---
 ---
-Test text
+Note: For more general infosec/cybersec resources, check out [this post](https://itsmejayd.github.io/blog/resources%20directory/cybersecurity-resources/)
 {: .notice--info}
 
-<p>&nbsp;</p>
 ## NIST (National Institute of Standards and Technology):
 ### What is NIST?
 * It's a U.S. federal agency that develops and promotes measurement standards, guidelines, and technologies to enhance innovation, industrial competitiveness, and public safety across various sectors, including cybersecurity, manufacturing, and technology.

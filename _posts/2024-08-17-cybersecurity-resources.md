@@ -15,6 +15,8 @@ tags:
   - RFID
   - threat maps
   - encryption
+  - standards
+  - frameworks
 toc: true
 toc_sticky: true
 ---
@@ -23,6 +25,8 @@ This page is basically a [directory](https://jackyan.com/blog/2023/09/bring-back
 
 ---
 ---
+Note: For more specific resources about standards and frameworks, check out [this post](https://itsmejayd.github.io/blog/resources%20directory/standards-and-frameworks-resources/)
+{: .notice--info}
 
 <p>&nbsp;</p>
 ## Cyber Threat Maps:
