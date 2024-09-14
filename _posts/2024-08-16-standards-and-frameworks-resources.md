@@ -64,6 +64,18 @@ ISO 27002 provides detailed guidance on how the controls could be implemented".(
 ### [SANS Security Policy Templates](https://www.sans.org/information-security-policy/?per-page=100)
 * Do you need to create/audit a security policy like an acceptable use policy or an incident response plan? This is a great resource for you!
 
+### [SANS Security Awareness Planning Toolkit (free download)](https://www.sans.org/blog/the-sans-security-awareness-planning-kit/)
+* Fantastic resources if you want to build and/or improve a Security Awareness Program.
+* Includes:
+    * Example program charter and plan.
+    * Customizable slide deck for presenting to stakeholders, a matrix tool to identify ways to measure security behaviors, culture, and impact of the program.
+    * Phishing planning guide.
+    * "Maturity Model" table to help identify program status and goals.
+    * Templates of examples on how to document overall security awareness plan.
+    * "SANS Security Awareness Report" to benchmark program against others.
+    * "Working from Home Deployment Kit: Everything you need to quickly plan and deploy a Work-from-Home security awareness training program".
+        * "strategic planning guide, training videos, and additional materials..."
+
 <p>&nbsp;</p>
 ## ITIL (Information Technology Infrastructure Library):
 ### What is ITIL?
