@@ -28,7 +28,8 @@ Note: For general infosec/cybersec resources, check out [this post](https://itsm
 ---
 
 <p>&nbsp;</p>
-## NIST (National Institute of Standards and Technology):
+## NIST:
+(National Institute of Standards and Technology)
 ### What is NIST?
 * It's a U.S. federal agency that develops and promotes measurement standards, guidelines, and technologies to enhance innovation, industrial competitiveness, and public safety across various sectors, including cybersecurity, manufacturing, and technology.
 
