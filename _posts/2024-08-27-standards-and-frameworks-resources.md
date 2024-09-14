@@ -22,6 +22,8 @@ This page is basically a [directory](https://jackyan.com/blog/2023/09/bring-back
 
 ---
 ---
+Test text
+{: .notice--info}
 
 <p>&nbsp;</p>
 ## NIST (National Institute of Standards and Technology):
