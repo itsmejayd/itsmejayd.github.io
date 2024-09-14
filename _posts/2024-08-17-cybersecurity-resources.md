@@ -23,10 +23,10 @@ toc_sticky: true
 
 This page is basically a [directory](https://jackyan.com/blog/2023/09/bring-back-the-human-curated-web-directory/) of links.<!--more--> I have a hodgepodge of useful bookmarks accumulated over time in a yet-to-be-well-organized bookmark directory and I wanted to group up a few of them for specific topics (this page being for links related to some basic cybersec/infosec/netsec/opsec stuff). I figured I might as well post it here for my own reference and so others might get use from it! These links are not necessarily in any particular order, though I’ll probably provide a brief description of each.
 
----
----
-Note: For more specific resources about standards and frameworks, check out [this post](https://itsmejayd.github.io/blog/resources%20directory/standards-and-frameworks-resources/)
+Note: For resources about cybersecurity related standards and frameworks, check out [this post](https://itsmejayd.github.io/blog/resources%20directory/standards-and-frameworks-resources/)!
 {: .notice--info}
+---
+---
 
 <p>&nbsp;</p>
 ## Cyber Threat Maps:

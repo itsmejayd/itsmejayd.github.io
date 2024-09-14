@@ -21,11 +21,12 @@ toc_sticky: true
 
 This page is basically a [directory](https://jackyan.com/blog/2023/09/bring-back-the-human-curated-web-directory/) of links.<!--more--> I have a hodgepodge of useful bookmarks accumulated over time in a yet-to-be-well-organized bookmark directory and I wanted to group up a few of them for specific topics (this page being for links related to standards/frameworks/policy stuff). I figured I might as well post it here for my own reference and so others might get use from it! These links are not necessarily in any particular order, though I’ll try to provide a brief description of each.
 
----
----
-Note: For more general infosec/cybersec resources, check out [this post](https://itsmejayd.github.io/blog/resources%20directory/cybersecurity-resources/)
+Note: For general infosec/cybersec resources, check out [this post](https://itsmejayd.github.io/blog/resources%20directory/cybersecurity-resources/)!
 {: .notice--info}
+---
+---
 
+<p>&nbsp;</p>
 ## NIST (National Institute of Standards and Technology):
 ### What is NIST?
 * It's a U.S. federal agency that develops and promotes measurement standards, guidelines, and technologies to enhance innovation, industrial competitiveness, and public safety across various sectors, including cybersecurity, manufacturing, and technology.
