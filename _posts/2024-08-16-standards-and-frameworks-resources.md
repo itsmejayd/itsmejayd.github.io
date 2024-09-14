@@ -10,6 +10,7 @@ tags:
   - security policy
   - cybersecurity
   - information security
+  - security awareness
   - NIST
   - ISO
   - SANS
