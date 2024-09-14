@@ -29,8 +29,8 @@ Note: For general infosec/cybersec resources, check out [this post](https://itsm
 
 <p>&nbsp;</p>
 ## NIST:
-(National Institute of Standards and Technology)
-    
+(National Institute of Standards and Technology)    
+
 ### What is NIST?
 * It's a U.S. federal agency that develops and promotes measurement standards, guidelines, and technologies to enhance innovation, industrial competitiveness, and public safety across various sectors, including cybersecurity, manufacturing, and technology.
 
@@ -42,7 +42,9 @@ Note: For general infosec/cybersec resources, check out [this post](https://itsm
 * [further summary details on the CSF](https://www.connectwise.com/cybersecurity-center/glossary/nist-cybersecurity-framework)
 
 <p>&nbsp;</p>
-## ISO (International Organization for Standardization):
+## ISO:
+(International Organization for Standardization)
+
 ### What is ISO?
 * It's a global body that develops and publishes consensus-based standards to ensure interoperability, safety, and quality across diverse industries and sectors.
 
@@ -82,7 +84,9 @@ ISO 27002 provides detailed guidance on how the controls could be implemented".(
 
 
 <p>&nbsp;</p>
-## ITIL (Information Technology Infrastructure Library):
+## ITIL:
+(Information Technology Infrastructure Library)
+
 ### What is ITIL?
 * It's a framework of best practices for IT service management that provides guidelines for aligning IT services with business strategy.
 
@@ -90,7 +94,9 @@ ISO 27002 provides detailed guidance on how the controls could be implemented".(
 * There is also a lot of other ITSM info found at the above link.
 
 <p>&nbsp;</p>
-## PCI DSS (Payment Card Industry Data Security Standard):
+## PCI DSS:
+(Payment Card Industry Data Security Standard)
+
 ### What is PCI DSS?
 * It's a set of security standards designed to protect cardholder data and ensure secure payment processing by setting requirements for data security and risk management.
 * [further details about PCI DSS](https://www.techtarget.com/searchsecurity/definition/PCI-DSS-Payment-Card-Industry-Data-Security-Standard#:~:text=PCI%20DSS%20was%20created%20in,Discover%2C%20JCB%20and%20American%20Express.)
